@@ -1,3 +1,50 @@
+permalink: /:title/
+base: http://www.aniart.eu
 name: ANI Art
+
 markdown: redcarpet
 highlighter: pygments
+
+redcarpet:
+  extensions: ['smart', 'superscript']
+
+gems:
+  - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+      layout: default
+      desc: buga
+  -
+    scope:
+      path: _posts/ru
+    values:
+      lang: ru
+  -
+    scope:
+      path: _posts/lv
+    values:
+      lang: lv
+  -
+    scope:
+      path: _posts/en/pages
+    values:
+      type: pages
+      desc: "Desc English"
+      keywords: "keywords English"
+  -
+    scope:
+      path: _posts/ru/pages
+    values:
+      type: pages
+      desc: "TBD Russian"
+  -
+    scope:
+      path: _posts/lv/pages
+    values:
+      type: pages
+      desc: "TBD Latvian"

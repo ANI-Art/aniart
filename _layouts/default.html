@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  <head>
+    <title>ANI Art - {{ page.title | strip_html }}</title>
+
+    <meta charset="utf-8">
+    <meta name="description" content="{% if page.desc %}{{ page.desc | strip_html }}{% endif %}">
+    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | strip_html }}{% endif %}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="/img/favicon.ico" />
+
+    <!-- Boostrap Core CSS-->
+    <link rel="stylesheet" href="/css/bootstrap.min.css"> 
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="/css/style.css">
+
+    <!-- Google fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Lobster' />
+    <!-- Font awesome -->
+    <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+
+    <!-- Start wrapper -->
+    <div class="wrapper">
+      <div class="col-md-12">
+        <!-- Logo -->
+        <div class="brand"> ANI Art
+          <div class="title">{% include languages.html %}</div>
+        </div>
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-default" role="navigation">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">{{ site.data.translations[page.lang].toggle-nav }}</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
+            <div class="navbar-brand"><a href="#">ANI Art</a>
+              <div class="title">{% include languages.html %}</div>
+            </div>
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+              {% for menu in site.data.navigation[page.lang] %}
+                <li {% if menu[1].title == page.title %}class="active"{% endif %}><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <!-- /navbar-collapse -->
+        </nav>
+        <!-- End nav -->
+
+        <!-- Content -->
+        {{ content }}
+        <!-- End of content -->          
+
+        {% include footer.html %}
+
+      </div>
+      <!-- End col-md-12 -->
+    </div>
+    <!-- End wrapper -->
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="js/jquery-1.11.0.js"></script>
+    <!-- Boostrap JS -->
+    <script src="js/bootstrap.min.js"></script>
+
+  </body>
+</html>

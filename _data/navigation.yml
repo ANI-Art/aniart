@@ -1,0 +1,45 @@
+en:
+#  logo:
+#    title: "Home"
+#    url:   "/"
+  home:
+    title: "Home"
+    url:   "/index.html"
+  about:
+    title: "About"
+    url:   "/about/"
+  gallery:
+    title: "Gallery"
+    url:   "/gallery/"
+  contact:
+    title: "Contact"
+    url:   "/contact/"
+ru:
+  home:
+    title: "Главная"
+    url:   "/glavnaya/"
+  about:
+    title: "Обо мне"
+    url:   "/obo-mne/"
+  gallery:
+    title: "Галерея"
+    url:   "/galereya/"
+  contact:
+    title: "Связаться"
+    url:   "/kontakti/"
+# lv:
+#   logo:
+#     title: "sylvain durand"
+#     url:   "/"
+#   journal:
+#     title: "journal"
+#     url:   "/index.html"
+#   projects:
+#     title: "projects"
+#     url:   "/projects/"
+#   about:
+#     title: "about"
+#     url:   "/about/"
+#  news:
+#    title: "News" <== TBD: a list of news about excibitions and etc
+#    url:   "/news/"
