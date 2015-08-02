@@ -6,7 +6,7 @@
 
 body {
 	background-color: white;
-	background-image: url(../img/bg.jpg);
+	background-image: url(../img/bg-mini.jpg);
 	background-position: left top;
 	background-repeat: repeat;
 }
@@ -45,7 +45,7 @@ img {
 
 p {
 	font-size: 1.1em;
-    font-family: 'Oxygen', sans-serif;	
+    font-family: 'Andika', sans-serif;	
 	color: #333;
 	line-height: 1.7em;
 	margin-top: 14px;
@@ -54,7 +54,7 @@ p {
 
 
 h1 {
-    font-family: 'Oxygen', Helvetica, Sans-serif;	   
+    font-family: 'Andika', Helvetica, Sans-serif;	   
     font-size: 2.2em;
 	font-weight: 300;
     color: #4f4d47;
@@ -65,7 +65,7 @@ h1 {
 }
 
 h2 {	
-    font-family: 'Oxygen', sans-serif;	
+    font-family: 'Andika', sans-serif;	
     font-size: 1em;
 	font-weight: 400;
 	color: #898989;
@@ -79,7 +79,7 @@ h2 {
 
 
 h3 {
-    font-family: 'Oxygen', sans-serif;	
+    font-family: 'Andika', sans-serif;	
     font-size: 1em;
 	font-weight: 400;
 	color: #898989;
@@ -91,7 +91,7 @@ h3 {
 
 
 h4 {
-	font-family: 'Oxygen', sans-serif;	
+	font-family: 'Andika', sans-serif;	
     font-size: 1em;
 	font-weight: 400;
 	color: #898989;
@@ -152,7 +152,7 @@ h4 {
     font-weight: 400;
 	color: #999999;
     text-transform: lowercase;
-	font-family: 'Oxygen', sans-serif;	
+	font-family: 'Andika', sans-serif;	
 }
 
 
@@ -193,7 +193,7 @@ h4 {
     font-weight: 400;
 	color: #999999;
     text-transform: lowercase;
-	font-family: 'Oxygen', sans-serif;	
+	font-family: 'Andika', sans-serif;	
 }
 
 .navbar {
@@ -215,7 +215,7 @@ h4 {
 	
 .navbar-default .navbar-nav>li>a {
 	color: #898989;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	font-size: 1.1em;
     border-top: 1px solid #dddddd;
     border-bottom: 1px solid #dddddd;
@@ -297,7 +297,7 @@ h4 {
 
 .box-home {
 	color: #898989;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	font-size: 1.1em;
     border-top: 1px solid #dddddd;
     border-bottom: 1px solid #dddddd;
@@ -306,7 +306,7 @@ h4 {
 
 .box-home a {
     color: #e74c3c;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	font-size: 0.9em;
 }
 
@@ -323,7 +323,7 @@ h4 {
 }
 
 .text-left {
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Andika', sans-serif;
     font-size: 1em;
 	font-weight: 400;
 	color: #898989;
@@ -348,7 +348,7 @@ h4 {
 
 .box-about {
 	color: #898989;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	font-size: 1.1em;
     border-top: 1px solid #dddddd;
     border-bottom: 1px solid #dddddd;
@@ -380,7 +380,7 @@ h4 {
 }
 
 .heading-c {
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
     font-size: 1em;
 	font-weight: 400;
 	color: #898989;
@@ -523,7 +523,7 @@ h4 {
 
 .recent-work-wrap .recent-work-inner h3 {
   margin: 10px 0;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Andika', sans-serif;
 }
 
 .recent-work-wrap .recent-work-inner h3 a {
@@ -645,7 +645,7 @@ h4 {
 
 .holder p {
 	font-size: 1.1em;
-    font-family: 'Oxygen', sans-serif;	
+    font-family: 'Andika', sans-serif;	
 	color: #898989;
 	line-height: 1.7em;
 	margin-top: 14px;
@@ -658,7 +658,7 @@ h5 {
     color: #4f4d47;
 	margin-top: 50px;
 	text-align: center;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	line-height: 1.7em;
 }
 
@@ -673,7 +673,7 @@ h5 .date {
 	line-height: 1.7em;
 	display: block;
 	text-transform: lowercase;
-	font-family: 'Oxygen', sans-serif;	
+	font-family: 'Andika', sans-serif;	
 }
 
 .photo-news {
@@ -692,7 +692,7 @@ h5 .date {
 }
 
 .box-contact {
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
     border-top: 1px solid #dddddd;
 	margin-top: 68px;
 }
@@ -741,7 +741,7 @@ h6 {
     color: #4f4d47;
 	margin-top: 100px;
 	text-align: left;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	line-height: 1.7em;
 	margin-left: 120px;
 	padding-bottom: 24px;
@@ -752,7 +752,7 @@ h6 span {
     color: #4f4d47;
 	margin-top: 10px;
 	text-align: left;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	line-height: 1.7em;
 	display: block;
 }
@@ -776,7 +776,7 @@ h6 span {
 
 .footer {
 	color: #898989;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Andika', sans-serif;
 	font-size: 1.1em;
     border-top: 1px solid #dddddd;
 	border-bottom: 1px solid #dddddd;
