@@ -34,14 +34,14 @@ defaults:
       path: _posts/en/pages
     values:
       type: pages
-      desc: "Desc English"
+      desc: "This is the online gallery of paintings by independent artist Nadezda Tarasova. Impressionism and Expressionism are the major art styles of the painting in oil published here. Marine is one of my major genres of artworks. Author tries her best and using all her knowledge of esoterics in order to put good vibes and create talisman paintings."
       keywords: "buy painting, paintings for sale, interior painting, interior, home design, painting, astrology, impressionism, Riga, Latvia, palette knife, marine, sea-piece, portrait in oils, commit to paint a picture, landscape, scenery, talisman-painting, talisman-picture"
   -
     scope:
       path: _posts/ru/pages
     values:
       type: pages
-      desc: "TBD Russian"
+      desc: "Вебсайт является онлайн-галереей независимого художника Надежды Тарасовой. Здесь представлены преимущественно работы маслом в стилях импрессионизма и экспрессионизма. Морской пейзаж, портрет являются одним из основных жанров. Опираясь на свои знания эзотерики, автор вкладывает в картины положительную энергию, символы, чтобы создавать картины-талисманы."
       keywords: "купить картину; продажа картин; интерьерная живопись; интерьер, дизайн дома, живопись, астрология, импрессионизм, Рига, Латвия, мастихин, море картины, портрет маслом, заказать портрет масло, пейзаж, картина-талисман, морской пейзаж"
   -
     scope:
