@@ -2,7 +2,7 @@ en:
   file01:
     image: /gallery/image-001.jpg
     thumb: /gallery/thumb-001.jpg
-    desc: <b>Esperanza</b>, canvas/oil painting, 70x50, 2015
+    desc: Esperanza, canvas/oil painting, 70x50, 2015
     categories: autumn
   file02:
     image: /gallery/image-002.jpg
