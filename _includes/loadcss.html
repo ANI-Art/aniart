@@ -79,6 +79,7 @@
     <link href="/css/lightbox.css" rel="stylesheet" /> 
 </noscript>
 
-<!-- Lightbox - should be loaded w/o async. -->
-<link href="/css/lightbox.css" rel="stylesheet" /> 
-
+{% if page.gallery %}
+  <!-- Lightbox - should be loaded w/o async. -->
+  <link href="/css/lightbox.css" rel="stylesheet" /> 
+{% endif %}

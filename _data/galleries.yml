@@ -1,57 +1,138 @@
 en:
   file01:
-    image: /gallery/image-001.jpg
-    thumb: /gallery/thumb-001.jpg
-    desc: Esperanza, canvas/oil painting, 70x50, 2015
+    image: /gallery/entry.jpg
+    thumb: /gallery/thumb-entry.jpg
+    desc: Entry, oil on canvas, 70x50, 2015
     categories: 
   file02:
-    image: /gallery/image-002.jpg
-    thumb: /gallery/thumb-002.jpg
-    desc: EN text 002
+    image: /gallery/ballet-dancer.jpg 
+    thumb: /gallery/thumb-ballet-dancer.jpg
+    desc: Ballet Dancer, oil on canvas, 70x50, 2015
     categories: 
   file03:
-    image: /gallery/image-003.jpg
-    thumb: /gallery/thumb-003.jpg
-    desc: EN text 003
-    categories: autumn
+    image: /gallery/wave.jpg
+    thumb: /gallery/thumb-wave.jpg
+    desc: Wave, oil on canvas, 50x40, 2015
+    categories: 
   file04:
-    image: /gallery/image-004.jpg
-    thumb: /gallery/thumb-004.jpg
-    desc: EN text 004
+    image: /gallery/winter-landscape.jpg
+    thumb: /gallery/thumb-winter-landscape.jpg
+    desc: Winter Landscape, oil on canvas, 50x40, 2015
     categories: 
   file05:
-    image: /gallery/image-005.jpg
-    thumb: /gallery/thumb-005.jpg
-    desc: EN text 005
-    categories: autumn
+    image: /gallery/esperanza.jpg
+    thumb: /gallery/thumb-esperanza.jpg
+    desc: Esperanza, oil on canvas, 70x50, 2015
+    categories: 
   file06:
-    image: /gallery/image-006.jpg
-    thumb: /gallery/thumb-006.jpg
-    desc: EN text 006
+    image: /gallery/moon.jpg
+    thumb: /gallery/thumb-moon.jpg
+    desc: Moon, oil on canvas, 70x50, 2015
     categories: 
   file07:
-    image: /gallery/image-007.jpg
-    thumb: /gallery/thumb-007.jpg
-    desc: EN text 007
+    image: /gallery/old-town-of-riga.jpg
+    thumb: /gallery/thumb-old-town-of-riga.jpg
+    desc: Old Town of Riga, oil on canvas, 70x50, 2014
     categories: 
   file08:
-    image: /gallery/image-008.jpg
-    thumb: /gallery/thumb-008.jpg
-    desc: EN text 008
-    categories: autumn
+    image: /gallery/dreaming-in-color.jpg
+    thumb: /gallery/thumb-dreaming-in-color.jpg
+    desc: Dreaming in Color, oil on canvas, 80x60, 2014
+    categories: 
   file09:
-    image: /gallery/image-009.jpg
-    thumb: /gallery/thumb-009.jpg
-    desc: EN text 009
+    image: /gallery/anaid.jpg
+    thumb: /gallery/thumb-anaid.jpg
+    desc: Anaid, oil on canvas, 60x50, 2015
     categories: 
 ru:
   file01:
-    image: /gallery/image-001.jpg
-    thumb: /gallery/thumb-001.jpg
-    desc: RU text 001
-    categories: autumn
+    image: /gallery/entry.jpg
+    thumb: /gallery/thumb-entry.jpg
+    desc: Устье, холст/масло, 70x50, 2015
+    categories: 
   file02:
-    image: /gallery/image-002.jpg
-    thumb: /gallery/thumb-002.jpg
-    desc: RU text 002
+    image: /gallery/ballet-dancer.jpg 
+    thumb: /gallery/thumb-ballet-dancer.jpg
+    desc: Балерина, холст/масло, 70x50, 2015
+    categories: 
+  file03:
+    image: /gallery/wave.jpg
+    thumb: /gallery/thumb-wave.jpg
+    desc: Волна, холст/масло, 50x40, 2015
+    categories: 
+  file04:
+    image: /gallery/winter-landscape.jpg
+    thumb: /gallery/thumb-winter-landscape.jpg
+    desc: Зимний пейзаж, холст/масло, 50x40, 2015
+    categories: 
+  file05:
+    image: /gallery/esperanza.jpg
+    thumb: /gallery/thumb-esperanza.jpg
+    desc: Эсперанса, холст/масло, 70x50, 2015
+    categories: 
+  file06:
+    image: /gallery/moon.jpg
+    thumb: /gallery/thumb-moon.jpg
+    desc: Луна, холст/масло, 70x50, 2015
+    categories: 
+  file07:
+    image: /gallery/old-town-of-riga.jpg
+    thumb: /gallery/thumb-old-town-of-riga.jpg
+    desc: Старая Рига, холст/масло, 70x50, 2014
+    categories: 
+  file08:
+    image: /gallery/dreaming-in-color.jpg
+    thumb: /gallery/thumb-dreaming-in-color.jpg
+    desc: Цветные сны, холст/масло, 80x60, 2014
+    categories: 
+  file09:
+    image: /gallery/anaid.jpg
+    thumb: /gallery/thumb-anaid.jpg
+    desc: Анаид, холст/масло, 60x50, 2015
+    categories: 
+lv:
+  file01:
+    image: /gallery/entry.jpg
+    thumb: /gallery/thumb-entry.jpg
+    desc: Grīva, audeklis/eļļa, 70x50, 2015
+    categories: 
+  file02:
+    image: /gallery/ballet-dancer.jpg 
+    thumb: /gallery/thumb-ballet-dancer.jpg
+    desc: Baleta dejotāja, audeklis/eļļa, 70x50, 2015
+    categories: 
+  file03:
+    image: /gallery/wave.jpg
+    thumb: /gallery/thumb-wave.jpg
+    desc: Vilnis, audeklis/eļļa, 50x40, 2015
+    categories: 
+  file04:
+    image: /gallery/winter-landscape.jpg
+    thumb: /gallery/thumb-winter-landscape.jpg
+    desc: Ziemas ainava, audeklis/eļļa, 50x40, 2015
+    categories: 
+  file05:
+    image: /gallery/esperanza.jpg
+    thumb: /gallery/thumb-esperanza.jpg
+    desc: Esperanza, audeklis/eļļa, 70x50, 2015
+    categories: 
+  file06:
+    image: /gallery/moon.jpg
+    thumb: /gallery/thumb-moon.jpg
+    desc: Mēness, audeklis/eļļa, 70x50, 2015
+    categories: 
+  file07:
+    image: /gallery/old-town-of-riga.jpg
+    thumb: /gallery/thumb-old-town-of-riga.jpg
+    desc: Vecrīga, audeklis/eļļa, 70x50, 2014
+    categories: 
+  file08:
+    image: /gallery/dreaming-in-color.jpg
+    thumb: /gallery/thumb-dreaming-in-color.jpg
+    desc: Krāsaini sapņi, audeklis/eļļa, 80x60, 2014
+    categories: 
+  file09:
+    image: /gallery/anaid.jpg
+    thumb: /gallery/thumb-anaid.jpg
+    desc: Anaid, audeklis/eļļa, 60x50, 2015
     categories: 
