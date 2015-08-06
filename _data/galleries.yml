@@ -3,7 +3,7 @@ en:
     image: /gallery/image-001.jpg
     thumb: /gallery/thumb-001.jpg
     desc: Esperanza, canvas/oil painting, 70x50, 2015
-    categories: autumn
+    categories: 
   file02:
     image: /gallery/image-002.jpg
     thumb: /gallery/thumb-002.jpg
