@@ -1,0 +1,57 @@
+en:
+  file01:
+    image: /gallery/image-001.jpg
+    thumb: /gallery/thumb-001.jpg
+    desc: EN text 001
+    categories: autumn
+  file02:
+    image: /gallery/image-002.jpg
+    thumb: /gallery/thumb-002.jpg
+    desc: EN text 002
+    categories: 
+  file03:
+    image: /gallery/image-003.jpg
+    thumb: /gallery/thumb-003.jpg
+    desc: EN text 003
+    categories: autumn
+  file04:
+    image: /gallery/image-004.jpg
+    thumb: /gallery/thumb-004.jpg
+    desc: EN text 004
+    categories: 
+  file05:
+    image: /gallery/image-005.jpg
+    thumb: /gallery/thumb-005.jpg
+    desc: EN text 005
+    categories: autumn
+  file06:
+    image: /gallery/image-006.jpg
+    thumb: /gallery/thumb-006.jpg
+    desc: EN text 006
+    categories: 
+  file07:
+    image: /gallery/image-007.jpg
+    thumb: /gallery/thumb-007.jpg
+    desc: EN text 007
+    categories: 
+  file08:
+    image: /gallery/image-008.jpg
+    thumb: /gallery/thumb-008.jpg
+    desc: EN text 008
+    categories: autumn
+  file09:
+    image: /gallery/image-009.jpg
+    thumb: /gallery/thumb-009.jpg
+    desc: EN text 009
+    categories: 
+ru:
+  file01:
+    image: /gallery/image-001.jpg
+    thumb: /gallery/thumb-001.jpg
+    desc: RU text 001
+    categories: autumn
+  file02:
+    image: /gallery/image-002.jpg
+    thumb: /gallery/thumb-002.jpg
+    desc: RU text 002
+    categories: 

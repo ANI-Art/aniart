@@ -65,9 +65,10 @@
     <!-- End wrapper -->
 
     <!-- jQuery Version 1.11.0 -->
-    <script src="js/jquery-1.11.0.js" async></script>
+    <script src="/js/jquery-1.11.0.js" async></script>
     <!-- Boostrap JS -->
-    <script src="js/bootstrap.min.js" async></script>
+    <script src="/js/bootstrap.min.js" async></script>
+    {% if page.gallery %}{% include lightbox.html %}{% endif %}
 
   </body>
 </html>

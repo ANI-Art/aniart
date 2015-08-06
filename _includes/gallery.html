@@ -1,0 +1,25 @@
+
+<div class="container">
+
+  <div class="row">
+    <div class="portfolio-items">
+      
+      {% for imagefile in site.data.galleries[page.lang] %}
+
+      <div class="portfolio-item summer col-xs-12 col-sm-4 col-md-4">
+        <div class="recent-work-wrap">
+          <img class="img-responsive" src="{{ imagefile[1].thumb }}" alt="{{ imagefile[1].desc }}">
+          <div class="overlay">
+            <div class="recent-work-inner">
+              <a href="{{ imagefile[1].image }}" data-lightbox="{{ imagefile[1].desc }}" data-title="{{ imagefile[1].desc }}">                                View</a>
+            </div> 
+          </div>
+        </div>
+      </div>
+
+      {% endfor %}
+
+    </div>
+  </div>
+               
+</div>
