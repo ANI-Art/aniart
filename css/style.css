@@ -402,10 +402,6 @@ h4 {
 	width: 33.3%;
 }
 
-.portfolio-item.col-xs-12 {
-	width: 100%;
-}
-
 .portfolio-filter > li {
   display: inline-block;
 }
@@ -938,6 +934,10 @@ h6 {
 .portfolio-filter {
   margin: 0 0 40px 0;
   padding: 0;
+}
+
+.portfolio-item.col-xs-12 {
+	width: 100%;
 }
 
 .heading-collections {
