@@ -397,9 +397,14 @@ h4 {
   padding: 0;
 }
 
+
 .portfolio-item.col-sm-4,
 .portfolio-item.col-md-4 {
 	width: 33.3%;
+}
+
+.portfolio-item.col-xs-12 {
+	width: 100%;
 }
 
 .portfolio-filter > li {
