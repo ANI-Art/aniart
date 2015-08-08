@@ -6,6 +6,14 @@
     <meta charset="utf-8">
     <meta name="description" content="{% if page.desc %}{{ page.desc | strip_html }}{% endif %}">
     <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | strip_html }}{% endif %}">
+    
+    <meta property="og:title" content="ANI Art" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://aniart.eu" />
+    <meta property="og:image" content="http://aniart.eu/img/about.jpg" />
+    <meta property="og:description" content="{% if page.desc %}{{ page.desc | strip_html }}{% endif %}" />
+    <meta property="og:locale" content="{{ page.lang }}" />
+
     {% include alternate.html %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
