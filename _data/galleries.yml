@@ -3,136 +3,136 @@ en:
     image: /gallery/entry.jpg
     thumb: /gallery/thumb-entry.jpg
     desc: Entry, oil on canvas, 70x50, 2015
-    categories: 
+    category: landscapes
   file02:
     image: /gallery/ballet-dancer.jpg 
     thumb: /gallery/thumb-ballet-dancer.jpg
     desc: Ballet Dancer, oil on canvas, 70x50, 2015
-    categories: 
+    category: 
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
     desc: Wave, oil on canvas, 50x40, 2015
-    categories: 
+    category: landscapes
   file04:
     image: /gallery/winter-landscape.jpg
     thumb: /gallery/thumb-winter-landscape.jpg
     desc: Winter Landscape, oil on canvas, 50x40, 2015
-    categories: 
+    category: landscapes
   file05:
     image: /gallery/esperanza.jpg
     thumb: /gallery/thumb-esperanza.jpg
     desc: Esperanza, oil on canvas, 70x50, 2015
-    categories: 
+    category: talismans
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
     desc: Moon, oil on canvas, 70x50, 2015
-    categories: 
+    category: talismans
   file07:
     image: /gallery/old-town-of-riga.jpg
     thumb: /gallery/thumb-old-town-of-riga.jpg
     desc: Old Town of Riga, oil on canvas, 70x50, 2014
-    categories: 
+    category: landscapes
   file08:
     image: /gallery/dreaming-in-color.jpg
     thumb: /gallery/thumb-dreaming-in-color.jpg
-    desc: Dreaming in Color, oil on canvas, 80x60, 2014
-    categories: 
+    desc: Dreaming in Color, oil on canvas, 80x60, 2014 (in private collection)
+    category: talismans
   file09:
     image: /gallery/anaid.jpg
     thumb: /gallery/thumb-anaid.jpg
     desc: Anaid, oil on canvas, 60x50, 2015
-    categories: 
+    category: portraits
 ru:
   file01:
     image: /gallery/entry.jpg
     thumb: /gallery/thumb-entry.jpg
     desc: Устье, холст/масло, 70x50, 2015
-    categories: 
+    category: landscapes
   file02:
     image: /gallery/ballet-dancer.jpg 
     thumb: /gallery/thumb-ballet-dancer.jpg
     desc: Балерина, холст/масло, 70x50, 2015
-    categories: 
+    category: 
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
     desc: Волна, холст/масло, 50x40, 2015
-    categories: 
+    category: landscapes
   file04:
     image: /gallery/winter-landscape.jpg
     thumb: /gallery/thumb-winter-landscape.jpg
     desc: Зимний пейзаж, холст/масло, 50x40, 2015
-    categories: 
+    category: landscapes
   file05:
     image: /gallery/esperanza.jpg
     thumb: /gallery/thumb-esperanza.jpg
     desc: Эсперанса, холст/масло, 70x50, 2015
-    categories: 
+    category: talismans
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
     desc: Луна, холст/масло, 70x50, 2015
-    categories: 
+    category: talismans
   file07:
     image: /gallery/old-town-of-riga.jpg
     thumb: /gallery/thumb-old-town-of-riga.jpg
     desc: Старая Рига, холст/масло, 70x50, 2014
-    categories: 
+    category: landscapes
   file08:
     image: /gallery/dreaming-in-color.jpg
     thumb: /gallery/thumb-dreaming-in-color.jpg
-    desc: Цветные сны, холст/масло, 80x60, 2014
-    categories: 
+    desc: Цветные сны, холст/масло, 80x60, 2014 (в частной коллекции)
+    category: talismans
   file09:
     image: /gallery/anaid.jpg
     thumb: /gallery/thumb-anaid.jpg
     desc: Анаид, холст/масло, 60x50, 2015
-    categories: 
+    category: portraits
 lv:
   file01:
     image: /gallery/entry.jpg
     thumb: /gallery/thumb-entry.jpg
     desc: Grīva, audeklis/eļļa, 70x50, 2015
-    categories: 
+    category: landscapes
   file02:
     image: /gallery/ballet-dancer.jpg 
     thumb: /gallery/thumb-ballet-dancer.jpg
     desc: Baleta dejotāja, audeklis/eļļa, 70x50, 2015
-    categories: 
+    category: 
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
     desc: Vilnis, audeklis/eļļa, 50x40, 2015
-    categories: 
+    category: landscapes
   file04:
     image: /gallery/winter-landscape.jpg
     thumb: /gallery/thumb-winter-landscape.jpg
     desc: Ziemas ainava, audeklis/eļļa, 50x40, 2015
-    categories: 
+    category: landscapes
   file05:
     image: /gallery/esperanza.jpg
     thumb: /gallery/thumb-esperanza.jpg
     desc: Esperanza, audeklis/eļļa, 70x50, 2015
-    categories: 
+    category: talismans
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
     desc: Mēness, audeklis/eļļa, 70x50, 2015
-    categories: 
+    category: talismans
   file07:
     image: /gallery/old-town-of-riga.jpg
     thumb: /gallery/thumb-old-town-of-riga.jpg
     desc: Vecrīga, audeklis/eļļa, 70x50, 2014
-    categories: 
+    category: landscapes
   file08:
     image: /gallery/dreaming-in-color.jpg
     thumb: /gallery/thumb-dreaming-in-color.jpg
     desc: Krāsaini sapņi, audeklis/eļļa, 80x60, 2014
-    categories: 
+    category: talismans
   file09:
     image: /gallery/anaid.jpg
     thumb: /gallery/thumb-anaid.jpg
     desc: Anaid, audeklis/eļļa, 60x50, 2015
-    categories: 
+    category: portraits
