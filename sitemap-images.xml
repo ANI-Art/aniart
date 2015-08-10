@@ -1,0 +1,19 @@
+---
+layout:
+permalink: /sitemap-images.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://aniart.eu/gallery/</loc>
+    {% for imagefile in site.data.galleries[page.lang] %}
+      <image:image>
+        <image:loc>http://aniart.eu/{{ imagefile[1].image }}</image:loc>
+        <image:caption>{{ imagefile[1].desc }}</image:caption>
+        <image:geo_location>Riga, Latvia</image:geo_location>
+        <image:title>{{ imagefile[1].desc }}</image:title>
+        <image:license>All rights reverved by Nadezda Tarasova</image:license>
+      </image:image>
+    {% endfor %}
+  </url>
+</urlset>
