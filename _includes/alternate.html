@@ -1,4 +1,4 @@
 {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
 {% for post in posts %}
     <link rel="alternate" href="http://aniart.eu{{ post.url }}" hreflang="{{ post.lang }}" />
-    <meta property="og:locale:alternate" content="{{ post.lang }}" />{% endfor %}
+    <meta property="og:locale:alternate" content="{{ post.locale }}" />{% endfor %}
