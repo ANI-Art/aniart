@@ -7,7 +7,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html }}{% endif %}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="http://aniart.eu{{ page.url }}" />
-    <meta property="og:image" content="{% if page.image %}/img/news/{{ page.image | strip_html }}{% else %}http://aniart.eu/img/about.jpg{% endif %}" />
+    <meta property="og:image" content="{% if page.image %}http://aniart.eu/img/news/{{ page.image | strip_html }}{% else %}http://aniart.eu/img/about.jpg{% endif %}" />
     <meta property="og:description" content="{% if page.preview %}{{ page.preview | strip_html }}{% else %}{{ page.desc | strip_html }}{% endif %}" />
     <meta property="og:locale" content="{{ page.locale }}" />
   {% else %}
