@@ -11,6 +11,9 @@ en:
   gallery:
     title: "Gallery"
     url:   "/gallery/"
+  news:
+    title: "News"
+    url:   "/news/"
   contact:
     title: "Contact"
     url:   "/contact/"
@@ -24,6 +27,9 @@ ru:
   gallery:
     title: "Галерея"
     url:   "/galereya/"
+  news:
+    title: "Новости"
+    url:   "/novosti/"
   contact:
     title: "Связаться"
     url:   "/kontakti/"

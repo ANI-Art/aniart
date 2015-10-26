@@ -14,7 +14,7 @@ en:
   landscapes: "Landscapes" 
   portraits: "Portraits"
   talismans: "Talisman Paintings"
-  404: "Page not found."
+  error404: "Page not found."
 ru:
   en: "по-английски"
   ru: "по-русски"
@@ -31,7 +31,7 @@ ru:
   landscapes: "Пейзажи" 
   portraits: "Портреты"
   talismans: "Картины-талисманы"
-  404: "Страница не найдена."
+  error404: "Страница не найдена."
 lv:
   en: "angliski"
   ru: "krieviski"
@@ -48,4 +48,4 @@ lv:
   landscapes: "Ainavas" 
   portraits: "Portreti"
   talismans: "Talismani"
-  404: "Lapa nav atrasta."
+  error404: "Lapa nav atrasta."
