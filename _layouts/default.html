@@ -21,42 +21,42 @@
   
     <!-- Start wrapper -->
     <div class="wrapper">
-      <div class="col-md-12">
-        <!-- Logo -->
-        <div class="brand"> ANI Art
-          <div class="title">{% include languages.html %}</div>
+      <!-- Logo -->
+      <div class="brand">ANI Art
+        <div class="title">{% include languages.html %}</div>
+      </div>
+
+      <!-- Navigation -->
+      <nav class="navbar navbar-default">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">{{ site.data.translations[page.lang].toggle-nav }}</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
+          <div class="navbar-brand"><a href="#">ANI Art</a>
+            <div class="title">{% include languages.html %}</div>
+          </div>
         </div>
-
-        <!-- Navigation -->
-        <nav class="navbar navbar-default">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-              <span class="sr-only">{{ site.data.translations[page.lang].toggle-nav }}</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-            <div class="navbar-brand"><a href="#">ANI Art</a>
-              <div class="title">{% include languages.html %}</div>
-            </div>
-          </div>
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-              {% for menu in site.data.navigation[page.lang] %}
-                <li {% if menu[1].title == page.title %}class="active"{% endif %}><a href="{{ menu[1].url }}" title="{{ menu[1].title | strip_newlines | strip_html }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
-          <!-- /navbar-collapse -->
-        </nav>
-        <!-- End nav -->
-
-        <!-- Content -->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            {% for menu in site.data.navigation[page.lang] %}
+              <li {% if menu[1].title == page.title %}class="active"{% endif %}><a href="{{ menu[1].url }}" title="{{ menu[1].title | strip_newlines | strip_html }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <!-- /navbar-collapse -->
+      </nav>
+      <!-- End nav -->
+      
+      <div class="col-md-10 col-md-offset-1">
+        <!-- Content - news -->
         {% if page.news %}
-          <div class="col-md-12">
+          <div>
             <h1>{{ page.title }}</h1>
             <div class="hr"></div>
             {{ content }}
@@ -64,15 +64,16 @@
               <img src="/img/news/{{ page.image }}" alt="{{ page.preview }}" class="resp main-image"/>
             </div>
           </div>
+        <!-- Content - pages -->
         {% else %}
           {{ content }}
         {% endif %}
         <!-- End of content -->          
 
-        {% include footer.html %}
-
       </div>
-      <!-- End col-md-12 -->
+      <!-- col-md-10 col-md-offset-1 -->
+
+      {% include footer.html %}
     </div>
     <!-- End wrapper -->
 
