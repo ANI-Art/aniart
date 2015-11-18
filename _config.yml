@@ -50,5 +50,5 @@ defaults:
     values:
       type: pages
       desc: "TBD Latvian"
-            keywords: "buy painting, paintings for sale, interior painting, interior, home design, painting, astrology, impressionism, Riga, Latvia, palette knife, marine, sea-piece, portrait in oils, commit to paint a picture, landscape, scenery, talisman-painting, talisman-picture, Nadezda Tarasova, female latvian artist"
+      keywords: "buy painting, paintings for sale, interior painting, interior, home design, painting, astrology, impressionism, Riga, Latvia, palette knife, marine, sea-piece, portrait in oils, commit to paint a picture, landscape, scenery, talisman-painting, talisman-picture, Nadezda Tarasova, female latvian artist"
       locale: lv_LV
