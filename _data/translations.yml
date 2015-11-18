@@ -15,6 +15,7 @@ en:
   portraits: "Portraits"
   talismans: "Talisman Paintings"
   error404: "Page not found."
+  nadezda-tarasova: "Nadezda Tarasova"
 ru:
   en: "по-английски"
   ru: "по-русски"
@@ -32,6 +33,7 @@ ru:
   portraits: "Портреты"
   talismans: "Картины-талисманы"
   error404: "Страница не найдена."
+  nadezda-tarasova: "Надежда Тарасова"
 lv:
   en: "angliski"
   ru: "krieviski"
@@ -49,3 +51,4 @@ lv:
   portraits: "Portreti"
   talismans: "Talismani"
   error404: "Lapa nav atrasta."
+  nadezda-tarasova: "Nadežda Tarasova"
