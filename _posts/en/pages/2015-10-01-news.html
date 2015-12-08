@@ -1,0 +1,22 @@
+---
+title: News
+---
+
+<h1>News</h1>
+<div class="hr"></div>
+<div>
+  {% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}{% for post in posts %}
+  <!-- {% capture hide %}
+    {% capture currentmonth %}{{post.date | date: "%m/%Y"}}{% endcapture %}
+  {% endcapture %} -->
+  <h2>{{ post.title | replace: '<br/>', '' }}</h2>
+  <!-- <h3>{{ post.date | date: '%Y.%m.%d' }}</h3> -->
+  <div><!-- List of news. -->
+    <p>
+      {{ post.preview }}
+      <span>(Published: {{ post.date | date: '%Y.%m.%d' }}.</span>
+      <span><a href="{{ post.url }}">{{ site.data.translations[page.lang].read }}</a>)</span>
+    </p>
+  </div>
+  {% endfor %}
+</div>

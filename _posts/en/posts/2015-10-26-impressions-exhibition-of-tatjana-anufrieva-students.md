@@ -1,13 +1,11 @@
 ---
-title: Impressions — выставка учеников Татьяны Ануфриевой
-preview: Рада сообщить об открытии выставки учеников Татьяны Ануфриевой «Впечатления». Выставка будет проходить с 28 октября по 11 ноября в помещении библиотеки имени Николая Задорнова.
+title: Tatjana Anufrijeva’s students’ Exhibition “Impressions”
+preview: Glad to let you know about the opening of the exhibition “Impressions”, where you can see the works of art by Tatjana Anufrijeva’s students and my new paintings among them.
 image: vpechatlenija-vystavka-uchenikov-tatjany-anufrievoj.png
 thumb: thumb-vpechatlenija-vystavka-uchenikov-tatjany-anufrievoj.png
 news: true
 ---
 
-Рада сообщить об открытии выставки учеников Татьяны Ануфриевой «Впечатления», где среди прочих будут представлены и мои последние работы. На выставке вы сможете увидеть в каких стилях мы пишем и как мы продвигаемся по нашему пути начинающих живописцев вместе с Татьяной. 
+Glad to let you know about the opening of the exhibition “Impressions”, where you can see the works of art by Tatjana Anufrijeva’s students and my new paintings among them.
 
-Выставка будет проходить с 28 октября по 11 ноября в помещении библиотеки имени Николая Задорнова. Время работы библиотеки: со вторника по пятницу - с 12:00 до 19:00, в субботу - с 11:00 до 15:00.
-
-Ждем вас в гости на открытие 28 октября в 16:00.
+The exhibition will take place in [Nikolai Zadornov Library](http://www.azbukivedi.lv/) from October 28 to November 11. Opening hours: from Tuesday till Friday - from 12:00 to 19:00, from 11:00 to 15:00 on Saturday.

@@ -43,15 +43,25 @@ img {
 }
 
 
-p {
+/*p {
 	font-size: 1.1em;
     font-family: 'Andika', sans-serif;	
 	color: #333;
 	line-height: 1.7em;
 	margin-top: 14px;
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 }
+*/
 
+p {
+    font-family: 'Andika', sans-serif;	
+    font-size: 1em;
+	font-weight: 400;
+	color: #898989;
+	margin-top: 16px;
+	margin-bottom: 14px;
+	line-height: 1.7em;
+}
 
 h1 {
     font-family: 'Andika', Helvetica, Sans-serif;	   
@@ -66,15 +76,13 @@ h1 {
 
 h2 {	
     font-family: 'Andika', sans-serif;	
-    font-size: 1em;
+    font-size: 1.8em;
 	font-weight: 400;
 	color: #898989;
 	margin-top: 40px;
 	margin-bottom: 34px;
 	text-align: center;
 	line-height: 1.7em;
-	/*padding-left: 150px;*/
-	/*padding-right: 150px;*/
 }
 
 
@@ -85,7 +93,7 @@ h3 {
 	color: #898989;
 	margin-top: 16px;
 	margin-bottom: 14px;
-	text-align: left;
+	text-align: center;
 	line-height: 1.7em;
 }
 

@@ -56,13 +56,18 @@
       <div class="col-md-10 col-md-offset-1">
         <!-- Content - news -->
         {% if page.news %}
-          <div>
-            <h1>{{ page.title }}</h1>
-            <div class="hr"></div>
-            {{ content }}
-            <div class="text-center">
-              <img src="/img/news/{{ page.image }}" alt="{{ page.preview }}" class="resp main-image"/>
-            </div>
+          <h1>{{ page.title }}</h1>
+          <div class="hr"></div>
+          {{ content }}
+          {% if page.image %}
+          <div class="text-center">
+            <img src="/img/news/{{ page.image }}" alt="{{ page.preview }}" class="resp main-image"/>
+          </div>
+          {% endif %}
+          <div class="text-center">
+            <a href="/{{ site.data.translations[page.lang].url-news }}/" class="home-btn btn">
+              {{ site.data.translations[page.lang].all-news }}
+            </a>
           </div>
         <!-- Content - pages -->
         {% else %}
