@@ -5,14 +5,20 @@ title: Новости
 <h1>Новости</h1>
 <div class="hr"></div>
 <div>
-  {% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}{% for post in posts %}
+  {% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}
+  {% for post in posts %} <!-- List of news. -->
   <!-- {% capture hide %}
     {% capture currentmonth %}{{post.date | date: "%m/%Y"}}{% endcapture %}
   {% endcapture %} -->
-  <h2>{{ post.title | replace: '<br/>', '' }}</h2>
-  <h3>{{ post.date | date: '%Y.%m.%d' }}</h3>
-  <div><!-- List of news. -->
-    <p>{{ post.preview }} <a href="{{ post.url }}">{{ site.data.translations[page.lang].read }}</a></p>
-  </div>
+  <h2><a title="{{ post.title | replace: '<br/>', '' }}" href="{{ post.url }}">{{ post.title | replace: '<br/>', '' }}</a></h2>
+  <p class="col-md-2">{{ post.date | date: '%Y.%m.%d' }}</p>
+  <p class="col-md-10">
+    {{ post.preview }}
+  </p>
+  <div class="text-center">
+    <a title="{{ post.title | replace: '<br/>', '' }}" href="{{ post.url }}" class="home-btn btn">
+      {{ site.data.translations[page.lang].read }}
+    </a>
+  <div>
   {% endfor %}
 </div>
