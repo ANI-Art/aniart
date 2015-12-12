@@ -18,7 +18,7 @@ en:
   read: "Continue reading"
   nadezda-tarasova: "Nadezda Tarasova"
   all-news: "News"
-  url-news: "news"
+  view-gallery: "View Gallery"
 ru:
   en: "по-английски"
   ru: "по-русски"
@@ -39,7 +39,7 @@ ru:
   read: "Читать дальше"
   nadezda-tarasova: "Надежда Тарасова"
   all-news: "Новости"
-  url-news: "novosti"
+  view-gallery: "Галерея"
 lv:
   en: "angliski"
   ru: "krieviski"
@@ -60,4 +60,4 @@ lv:
   read: " Lasīt tālāk"
   nadezda-tarasova: "Nadežda Tarasova"
   all-news: "Visas ziņas"
-  url-news: "zinas"
+  view-gallery: "View Gallery ??"

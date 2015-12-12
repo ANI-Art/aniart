@@ -12,13 +12,11 @@ title: News
   {% endcapture %} -->
   <h2><a title="{{ post.title | replace: '<br/>', '' }}" href="{{ post.url }}">{{ post.title | replace: '<br/>', '' }}</a></h2>
   <p class="col-md-2">{{ post.date | date: '%Y.%m.%d' }}</p>
-  <p class="col-md-10">
-    {{ post.preview }}
-  </p>
+  <p class="col-md-10">{{ post.preview }}</p>
   <div class="text-center">
     <a title="{{ post.title | replace: '<br/>', '' }}" href="{{ post.url }}" class="home-btn btn">
       {{ site.data.translations[page.lang].read }}
     </a>
-  <div>
+  </div>
   {% endfor %}
 </div>
