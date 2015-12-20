@@ -4,6 +4,7 @@ preview: The exhibition “Summer Mood” will take place in the Mentzendorff’
 image: 
 thumb: 
 news: true
+exhibition: false
 ---
 
 The exhibition “Summer Mood” will take place in the Mentzendorff’s House from July 16 to August 15. There you can see the my teacher Tatjana Anufrijeva’s paintings together with those of Rolana Rudermane. The painitngs exhibited are full of bright colors and joy of summer season.

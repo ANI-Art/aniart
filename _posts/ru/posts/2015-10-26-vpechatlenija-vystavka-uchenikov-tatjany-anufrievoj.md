@@ -4,6 +4,7 @@ preview: Рада сообщить об открытии выставки уче
 image: vpechatlenija-vystavka-uchenikov-tatjany-anufrievoj.png
 thumb: thumb-vpechatlenija-vystavka-uchenikov-tatjany-anufrievoj.png
 news: true
+exhibition: true
 ---
 
 Рада сообщить об открытии выставки учеников Татьяны Ануфриевой «Впечатления», где среди прочих будут представлены и мои последние работы. На выставке вы сможете увидеть в каких стилях мы пишем и как мы продвигаемся по нашему пути начинающих живописцев вместе с Татьяной. 

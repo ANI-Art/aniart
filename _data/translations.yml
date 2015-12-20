@@ -19,6 +19,7 @@ en:
   nadezda-tarasova: "Nadezda Tarasova"
   all-news: "News"
   view-gallery: "View Gallery"
+  exhibition: "Exhibitions"
 ru:
   en: "по-английски"
   ru: "по-русски"
@@ -40,6 +41,7 @@ ru:
   nadezda-tarasova: "Надежда Тарасова"
   all-news: "Новости"
   view-gallery: "Галерея"
+  exhibition: "Участие в выставках"
 lv:
   en: "angliski"
   ru: "krieviski"
@@ -61,3 +63,4 @@ lv:
   nadezda-tarasova: "Nadežda Tarasova"
   all-news: "Visas ziņas"
   view-gallery: "View Gallery ??"
+  exhibition: "Izstādes"

@@ -4,6 +4,7 @@ preview: Glad to let you know about the opening of the exhibition “Impressions
 image: vpechatlenija-vystavka-uchenikov-tatjany-anufrievoj.png
 thumb: thumb-vpechatlenija-vystavka-uchenikov-tatjany-anufrievoj.png
 news: true
+exhibition: true
 ---
 
 Glad to let you know about the opening of the exhibition “Impressions”, where you can see the works of art by Tatjana Anufrijeva’s students and my new paintings among them.
