@@ -4,26 +4,26 @@
     <title>ANI Art - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }}</title>
 
     <meta charset="utf-8">
-    {% include meta-tags.html %}
-    {% include alternate.html %}
+    {% include all-meta-tags.html %}
+    {% include all-alternate.html %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="icon" href="/img/favicon.ico" />
 
-    {% include loadcss.html %}
-    {% include schema.html %}
-    {% include ga.html %}
+    {% include all-loadcss.html %}
+    {% include all-schema.html %}
+    {% include all-ga.html %}
   </head>
 
   <body>
-  {% include fb.html %}
+  {% include all-fb.html %}
   
     <!-- Start wrapper -->
     <div class="wrapper">
       <!-- Logo -->
       <div class="brand">ANI Art
-        <div class="title">{% include languages.html %}</div>
+        <div class="title">{% include all-languages.html %}</div>
       </div>
 
       <!-- Navigation -->
@@ -38,14 +38,14 @@
           </button>
           <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
           <div class="navbar-brand"><a href="#">ANI Art</a>
-            <div class="title">{% include languages.html %}</div>
+            <div class="title">{% include all-languages.html %}</div>
           </div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             {% for menu in site.data.navigation[page.lang] %}
-              <li {% if menu[1].title == page.title %}class="active"{% endif %}><a href="{{ menu[1].url }}" title="{{ menu[1].title | strip_newlines | strip_html }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
+              <li {% if menu[1].title == page.title %}class="active"{% endif %}><a title="{{ menu[1].title | strip_newlines | strip_html }}" href="{{ menu[1].url }}" title="{{ menu[1].title | strip_newlines | strip_html }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -65,8 +65,8 @@
           </div>
           {% endif %}
           <div class="text-center">
-            <a href="/{{ site.data.translations[page.lang].url-news }}/" class="home-btn btn">
-              {{ site.data.translations[page.lang].all-news }}
+            <a title="{{ site.data.navigation[page.lang].news.title }}" href="{{ site.data.navigation[page.lang].news.url }}" class="home-btn btn">
+              {{ site.data.navigation[page.lang].news.title }}
             </a>
           </div>
         <!-- Content - pages -->
@@ -78,7 +78,7 @@
       </div>
       <!-- col-md-10 col-md-offset-1 -->
 
-      {% include footer.html %}
+      {% include all-footer.html %}
     </div>
     <!-- End wrapper -->
 
@@ -86,8 +86,8 @@
     <script src="/js/jquery-1.11.0.js"></script>
     <!-- Boostrap JS -->
     <script src="/js/bootstrap.min.js"></script>
-    {% if page.gallery %}{% include lightbox.html %}{% endif %}
-    {% if page.contact %}{% include wufoo.html %}{% endif %}
+    {% if page.gallery %}{% include all-lightbox.html %}{% endif %}
+    {% if page.contact %}{% include all-wufoo.html %}{% endif %}
   </body>
-  {% if page.contact %}{% include tracking-contact.html %}{% endif %}
+  {% if page.contact %}{% include all-tracking-contact.html %}{% endif %}
 </html>

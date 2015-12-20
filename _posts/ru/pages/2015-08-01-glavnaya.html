@@ -8,11 +8,11 @@ title: Главная
 {% include index-latest.html %}
 <div class="text-center">
   <h3>Остальные мои работы вы можете найти и посмотреть в разделе «Галерея».</h3>
-  <a href="/{{ site.data.links[page.lang].gallery }}/" class="home-btn btn">
-    {{ site.data.translations[page.lang].view-gallery }}
+  <a title="{{ site.data.navigation[page.lang].gallery.title }}" href="{{ site.data.navigation[page.lang].gallery.url }}" class="home-btn btn">
+    {{ site.data.navigation[page.lang].gallery.title }}
   </a>
-  <a href="/{{ site.data.links[page.lang].news }}/" class="home-btn btn">
-    {{ site.data.translations[page.lang].all-news }}
+  <a title="{{ site.data.navigation[page.lang].news.title }}" href="{{ site.data.navigation[page.lang].news.url }}" class="home-btn btn">
+    {{ site.data.navigation[page.lang].news.title }}
   </a>
 </div>  
 <!-- End main image and the text below -->
