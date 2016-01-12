@@ -45,7 +45,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             {% for menu in site.data.navigation[page.lang] %}
-              <li {% if menu[1].title == page.title %}class="active"{% endif %}><a title="{{ menu[1].title | strip_newlines | strip_html }}" href="{{ menu[1].url }}" title="{{ menu[1].title | strip_newlines | strip_html }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
+              <li {% if menu[1].title == page.title %}class="active"{% endif %}><a title="{{ menu[1].title | strip_newlines | strip_html }}" href="{{ menu[1].url }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
             {% endfor %}
           </ul>
         </div>

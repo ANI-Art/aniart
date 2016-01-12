@@ -7,13 +7,22 @@ permalink: /sitemap-images.xml
   <url>
     <loc>http://aniart.eu/gallery/</loc>
     {% for imagefile in site.data.galleries[page.lang] %}
-      <image:image>
-        <image:loc>http://aniart.eu{{ imagefile[1].image }}</image:loc>
-        <image:caption>{{ imagefile[1].desc }} by Nadezda Tarasova</image:caption>
-        <image:geo_location>Riga, Latvia</image:geo_location>
-        <image:title>{{ imagefile[1].desc }}</image:title>
-        <image:license>http://creativecommons.org/licenses/by-nc-sa/4.0/</image:license>
-      </image:image>
+    <image:image>
+      <image:loc>http://aniart.eu{{ imagefile[1].image }}</image:loc>
+      <image:caption>{{ imagefile[1].desc }} by Nadezda Tarasova</image:caption>
+      <image:geo_location>Riga, Latvia</image:geo_location>
+      <image:title>{{ imagefile[1].desc }}</image:title>
+      <image:license>http://creativecommons.org/licenses/by-nc-sa/4.0/</image:license>
+    </image:image>
     {% endfor %}
   </url>
+  <!-- Images from news. -->
+  {% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}{% for post in posts %}{% if post.image %}
+  <url>
+    <loc>http://aniart.eu{{ post.url }}</loc>
+    <image:image>
+      <image:loc>http://aniart.eu/img/news/{{ post.image }}</image:loc>
+      <image:title>{{ post.title | replace: '<br/>', '' }}</image:title>
+    </image:image>
+  </url>{% endif %}{% endfor %}
 </urlset>
