@@ -44,6 +44,26 @@ en:
     thumb: /gallery/thumb-anaid.jpg
     desc: Anaid, oil on canvas, 60x50, 2015
     category: portraits
+  file10:
+    image: /gallery/jurmala.jpg
+    thumb: /gallery/thumb-jurmala.jpg
+    desc: Jurmala, oil on canvas, 40x30, 2015 (in private collection)
+    category: landscapes
+  file11:
+    image: /gallery/dance.jpg
+    thumb: /gallery/thumb-dance.jpg
+    desc: Dance, acryl on canvas, 50x70, 2015
+    category: abstractions
+  file12:
+    image: /gallery/unity.jpg
+    thumb: /gallery/thumb-unity.jpg
+    desc: Unity, oil on canvas, 70x50, 2015
+    category: talismans
+  file13:
+    image: /gallery/bunch-of-flowers.jpg
+    thumb: /gallery/thumb-bunch-of-flowers.jpg
+    desc: Bunch of Flowers, oil on canvas, 50x70, 2015
+    category: still life
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -90,6 +110,26 @@ ru:
     thumb: /gallery/thumb-anaid.jpg
     desc: Анаид, холст/масло, 60x50, 2015
     category: portraits
+  file10:
+    image: /gallery/jurmala.jpg
+    thumb: /gallery/thumb-jurmala.jpg
+    desc: Юрмала, холст/масло, 40x30, 2015 (в частной коллекции)
+    category: landscapes
+  file11:
+    image: /gallery/dance.jpg
+    thumb: /gallery/thumb-dance.jpg
+    desc: Танец, холст/акрил, 50x70, 2015
+    category: abstractions
+  file12:
+    image: /gallery/unity.jpg
+    thumb: /gallery/thumb-unity.jpg
+    desc: Единение, холст/масло, 70x50, 2015
+    category: talismans
+  file13:
+    image: /gallery/bunch-of-flowers.jpg
+    thumb: /gallery/thumb-bunch-of-flowers.jpg
+    desc: Букет цветов, холст/масло, 50x70, 2015
+    category: still life
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -136,3 +176,23 @@ lv:
     thumb: /gallery/thumb-anaid.jpg
     desc: Anaid, audeklis/eļļa, 60x50, 2015
     category: portraits
+  file10:
+    image: /gallery/jurmala.jpg
+    thumb: /gallery/thumb-jurmala.jpg
+    desc: Jūrmala, audeklis/eļļa, 40x30, 2015 (in private collection)
+    category: landscapes
+  file11:
+    image: /gallery/dance.jpg
+    thumb: /gallery/thumb-dance.jpg
+    desc: Deja, audeklis/akrils, 50x70, 2015
+    category: abstractions
+  file12:
+    image: /gallery/unity.jpg
+    thumb: /gallery/thumb-unity.jpg
+    desc: Vienotība, audeklis/eļļa, 70x50, 2015
+    category: talismans
+  file13:
+    image: /gallery/bunch-of-flowers.jpg
+    thumb: /gallery/thumb-bunch-of-flowers.jpg
+    desc: Puķu pušķis, audeklis/eļļa, 50x70, 2015
+    category: still life
