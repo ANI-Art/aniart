@@ -33,19 +33,19 @@ ru:
   contact:
     title: "Связаться"
     url:   "/kontakti/"
-# lv:
-#   logo:
-#     title: "sylvain durand"
-#     url:   "/"
-#   journal:
-#     title: "journal"
-#     url:   "/index.html"
-#   projects:
-#     title: "projects"
-#     url:   "/projects/"
-#   about:
-#     title: "about"
-#     url:   "/about/"
-#  news:
-#    title: "News" <== TBD: a list of news about excibitions and etc
-#    url:   "/news/"
+lv:
+  home:
+    title: "Galvena"
+    url:   "/galvena/"
+  about:
+    title: "Par mani"
+    url:   "/par-mani/"
+  gallery:
+    title: "Galerija"
+    url:   "/galerija/"
+  news:
+    title: "Ziņas"
+    url:   "/zinas/"
+  contact:
+    title: "Sazināties"
+    url: "/sazinaties/"

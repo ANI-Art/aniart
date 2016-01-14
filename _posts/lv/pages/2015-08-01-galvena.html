@@ -1,0 +1,17 @@
+---
+title: Galvena
+name: index
+---
+
+<h1>Mans jaunākais darbs</h1>
+<div class="hr"></div>
+{% include index-latest.html %}
+<div class="text-center">
+  <h3>...</h3> <!-- TBD -->
+  <a title="{{ site.data.navigation[page.lang].gallery.title }}" href="{{ site.data.navigation[page.lang].gallery.url }}" class="home-btn btn">
+    {{ site.data.navigation[page.lang].gallery.title }}
+  </a>
+  <a title="{{ site.data.navigation[page.lang].news.title }}" href="{{ site.data.navigation[page.lang].news.url }}" class="home-btn btn">
+    {{ site.data.navigation[page.lang].news.title }}
+  </a>
+</div>
