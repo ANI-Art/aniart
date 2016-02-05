@@ -2,8 +2,8 @@ permalink: /:title/
 base: http://www.aniart.eu
 name: ANI Art
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 
 redcarpet:
   extensions: ['smart', 'superscript']
@@ -21,34 +21,52 @@ defaults:
       locale: en_US
   -
     scope:
-      path: _posts/ru
+      path: "_posts/en"
+    values:
+      lang: en
+      layout: default
+      locale: en_US
+  -
+    scope:
+      path: "_posts/ru"
     values:
       lang: ru
+      layout: default
       locale: ru_RU
   -
     scope:
-      path: _posts/lv
+      path: "_posts/lv"
     values:
       lang: lv
+      layout: default
       locale: lv_LV
   -
     scope:
-      path: _posts/en/pages
+      path: "_posts/en/pages"
     values:
+      lang: en
+      layout: default
+      locale: en_US
       type: pages
       desc: "This is the online gallery of paintings by independent artist Nadezda Tarasova. Impressionism and Expressionism are the major art styles of the painting in oil published here. Marine is one of my major genres of artworks. Author tries her best and using all her knowledge of esoterics in order to put good vibes and create talisman paintings."
       keywords: "buy painting, paintings for sale, interior painting, interior, home design, painting, astrology, impressionism, Riga, Latvia, palette knife, marine, sea-piece, portrait in oils, commit to paint a picture, landscape, scenery, talisman-painting, talisman-picture, Nadezda Tarasova, female latvian artist"
   -
     scope:
-      path: _posts/ru/pages
+      path: "_posts/ru/pages"
     values:
+      lang: ru
+      layout: default
+      locale: ru_RU
       type: pages
       desc: "Вебсайт является онлайн-галереей независимого художника Надежды Тарасовой. Здесь представлены преимущественно работы маслом в стилях импрессионизма и экспрессионизма. Морской пейзаж, портрет являются одним из основных жанров. Опираясь на свои знания эзотерики, автор вкладывает в картины положительную энергию, символы, чтобы создавать картины-талисманы."
       keywords: "купить картину, продажа картин, интерьерная живопись, интерьер, дизайн дома, живопись, астрология, импрессионизм, Рига, Латвия, мастихин, море картины, портрет маслом, заказать портрет масло, пейзаж, картина-талисман, морской пейзаж, Надежда Тарасова, латвийская женщина-художник"
   -
     scope:
-      path: _posts/lv/pages
+      path: "_posts/lv/pages"
     values:
+      lang: lv
+      layout: default
+      locale: lv_LV
       type: pages
       desc: "Šī mājaslapa ir neatkarīgās mākslinieces Nadeždas Tarasovas tiešsaistes galerija. Tajā galvenokārt ir pārstāvēti darbi, kas izpildīti ar eļļas krāsām, impresionisma un ekspresionisma stilā. Jūras ainava, portrets ir viens no galvenajiem žanriem. Balstoties uz savām zināšanām ezotēriskas jomā, autors gleznās ietver pozitīvu enerģiju, simbolus, lai radītu gleznas-talismanus."
       keywords: "Latvijas māksliniece, Nadežda Tarasova, nopirkt gleznu, gleznu tirdzniecība, interjera glezniecība, interjers, mājas dizains, glezniecība, astroloģija, impresionisms, Rīga, Latvija, paletes nazis, jūra gleznās, portrets ar eļļas krāsām, pasūtīt portretu ar eļļas krāsām, ainava, glezna-talismans, jūras ainava"
