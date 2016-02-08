@@ -16,12 +16,11 @@ defaults:
     scope:
       path: ""
     values:
-      lang: en
-      layout: default
-      locale: en_US
+      novalue: ""
   -
     scope:
       path: "_posts/en"
+      type: "posts"
     values:
       lang: en
       layout: default
@@ -29,6 +28,7 @@ defaults:
   -
     scope:
       path: "_posts/ru"
+      type: "posts"
     values:
       lang: ru
       layout: default
@@ -36,6 +36,7 @@ defaults:
   -
     scope:
       path: "_posts/lv"
+      type: "posts"
     values:
       lang: lv
       layout: default
@@ -43,6 +44,7 @@ defaults:
   -
     scope:
       path: "_posts/en/pages"
+      type: "pages"
     values:
       lang: en
       layout: default
@@ -53,6 +55,7 @@ defaults:
   -
     scope:
       path: "_posts/ru/pages"
+      type: "pages"
     values:
       lang: ru
       layout: default
@@ -63,6 +66,7 @@ defaults:
   -
     scope:
       path: "_posts/lv/pages"
+      type: "pages"
     values:
       lang: lv
       layout: default
