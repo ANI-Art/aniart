@@ -14,11 +14,6 @@ gems:
 defaults:
   -
     scope:
-      path: ""
-    values:
-      novalue: ""
-  -
-    scope:
       path: "_posts/en"
       type: "posts"
     values:
