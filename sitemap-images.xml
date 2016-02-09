@@ -19,7 +19,7 @@ type: other
     {% endfor %}
   </url>
   <!-- Images from news. -->
-  {% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}{% for post in posts %}{% if post.image %}
+  {% assign posts=site.posts | where:"lang", page.lang | where:"type", "post" %}{% for post in posts %}{% if post.image %}
   <url>
     <loc>http://aniart.eu{{ post.url }}</loc>
     <image:image>
