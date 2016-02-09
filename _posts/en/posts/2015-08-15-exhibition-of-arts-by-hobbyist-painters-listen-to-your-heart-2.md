@@ -6,6 +6,8 @@ thumb:
 news: true
 exhibition: true
 name: 20150815
+lang: en
+type: post
 ---
 
 The exhibition of paintings of hobbyist painters “Listen to Your Heart” will be opened this Saturday, August 29. The exhibition is organized by [the Association of artists of Riga Russian House](https://www.facebook.com/groups/214048355344420/).

@@ -6,6 +6,8 @@ thumb:
 news: true
 exhibition: false
 name: 20150709
+lang: lv
+type: post
 ---
 
 Jūlijā notiks manas skolotājas Tatjanas Anufrijevas kopīgā izstāde „Vasaras noskaņas”. Izstāde būs apskatāma Mencendorfa namā. Tatjana Anufrijeva un Rolana Rudermane aicina apskatīt viņu gleznas, kuras ir iedvesmojusi vasara. Ekspozīciju varēs apskatīt laikā no 16. jūlija līdz 15. augustam.

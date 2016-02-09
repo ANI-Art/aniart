@@ -6,6 +6,8 @@ thumb: thumb-byeliy-bal-astrodati.png
 news: true
 exhibition: false
 name: 20160112
+lang: lv
+type: post
 ---
 
 Aicinu jūs piedalīties labdarības izsolē “Astrodatas baltās balles” ietvaros, ko organize astroloģijas skola Astrodata. Kā izsoles lotes nododu divas savas gleznas - “Saullēkts” un “Mēness”.

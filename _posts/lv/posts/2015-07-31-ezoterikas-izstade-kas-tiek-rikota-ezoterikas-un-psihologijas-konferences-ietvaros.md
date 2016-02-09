@@ -6,6 +6,8 @@ thumb:
 news: true
 exhibition: true
 name: 20150731
+lang: lv
+type: post
 ---
 
 Nevaru slēpt savu saviļņojumu — 8. augustā notiks mana pirmā mini-izstāde. Izstāde notiks ezotērikas un psiholoģijas konferences ietvaros, kuru rīko sabiedriska organizācija „Astrodata”. Konference notiks 8. un 9. augustā viesnīcas „NB Hotel” konferenču zālē.

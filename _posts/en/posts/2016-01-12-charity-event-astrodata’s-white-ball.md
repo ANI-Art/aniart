@@ -6,6 +6,8 @@ thumb: thumb-byeliy-bal-astrodati.png
 news: true
 exhibition: false
 name: 20160112
+lang: en
+type: post
 ---
 
 I want to invite You to participate in the auction which will be hold during the charity event “Astrodata’s White Ball”. I’m going to place on auction two my paintings “Sunrise” and “Moon”. 

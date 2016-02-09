@@ -1,12 +1,4 @@
 {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
-{{ posts[0].url }}
-{{ posts[1].url }}
-{{ posts[2].url }}
-{{ posts[0].lang }}
-{{ posts[1].lang }}
-{{ posts[2].lang }}
-{{ posts.size }}
-<br>
 <span>-</span>
 {% for post in posts %}
 <a href="{{ post.url }}" class="{{ post.lang }}">{% if post.lang == 'en' %}{{ site.data.translations[page.lang].en }}{% else %}{% if post.lang == 'ru' %}{{ site.data.translations[page.lang].ru }}{% else %}{{ site.data.translations[page.lang].lv }}{% endif %}{% endif %}</a>

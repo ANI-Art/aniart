@@ -6,6 +6,8 @@ thumb:
 news: true
 exhibition: true
 name: 20150815
+lang: lv
+type: post
 ---
 
 Sestdien, 29. augustā plkst. 12:00 „Krievu namā” tiks atklāta amatiermākslinieku darbu izstāde „Sadzirdi savu sirdi – II”, ko rīko [„Rīgas Krievu nama” Mākslinieku asociācija](https://www.facebook.com/groups/214048355344420/).

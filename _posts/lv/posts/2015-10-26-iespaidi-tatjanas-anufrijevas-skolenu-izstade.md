@@ -6,6 +6,8 @@ thumb: thumb-vpechatlenija-vystavka-uchenikov-tatjany-anufrievoj.png
 news: true
 exhibition: true
 name: 20151026
+lang: lv
+type: post
 ---
 
 Esmu priecīga paziņot par Tatjanas Anufrijevas skolēnu izstādes „Iespaidi” atklāšanu, kurā cita starpā būs apskatāmi arī mani pēdējie darbi. Izstādē Jūs varēsiet redzēt, kādus stilus mēs izmantojam un kā mēs virzāmies pa mūsu kā gleznotāju-iesācēju ceļu kopā ar Tatjanu. 

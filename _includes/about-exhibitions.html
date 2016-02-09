@@ -1,6 +1,6 @@
 <h2 class="col-md-12">{{ site.data.translations[page.lang].exhibition }}</h2>
 <div class="col-md-12">
-  {% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}
+  {% assign posts = site.posts | where:"lang", page.lang | where:"type", "post" %}
   {% for post in posts %} <!-- List not of news, but exhibitions. -->
   {% if post.exhibition %}
   <p><a title="{{ post.title | replace: '<br/>', '' }}" href="{{ post.url }}">{{ post.title | replace: '<br/>', '' }}</a></p>

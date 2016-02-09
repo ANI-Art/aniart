@@ -8,7 +8,7 @@ lang: lv
 <h1>Ziņas</h1>
 <div class="hr"></div>
 <div>
-  {% assign posts=site.posts | where:"lang", page.lang | where:"type", posts %}
+  {% assign posts = site.posts | where:"lang", page.lang | where:"type", "post" %}
   {% for post in posts %} <!-- List of news. -->
   <!-- {% capture hide %}
     {% capture currentmonth %}{{post.date | date: "%m/%Y"}}{% endcapture %}
