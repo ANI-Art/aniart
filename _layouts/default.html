@@ -37,15 +37,20 @@
             <span class="icon-bar"></span>
           </button>
           <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-          <div class="navbar-brand"><a href="#">ANI Art</a>
-            <div class="title">{% include all-languages.html %}</div>
-          </div>
+          <div class="navbar-brand">ANI Art</div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav hidden-md hidden-lg">
+            {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
+            {% for post in posts %}
+            <li class="navbar-title"><a href="{{ post.url }}" class="{{ post.lang }}">{% if post.lang == 'en' %}{{ site.data.translations[page.lang].en }}{% else %}{% if post.lang == 'ru' %}{{ site.data.translations[page.lang].ru }}{% else %}{{ site.data.translations[page.lang].lv }}{% endif %}{% endif %}</a></li>
+            {% endfor %}
+          </ul> 
+          <hr class="hidden-md hidden-lg">
           <ul class="nav navbar-nav">
             {% for menu in site.data.navigation[page.lang] %}
-              <li {% if menu[1].title == page.title %}class="active"{% endif %}><a title="{{ menu[1].title | strip_newlines | strip_html }}" href="{{ menu[1].url }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
+            <li {% if menu[1].title == page.title %}class="active"{% endif %}><a title="{{ menu[1].title | strip_newlines | strip_html }}" href="{{ menu[1].url }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>
             {% endfor %}
           </ul>
         </div>
