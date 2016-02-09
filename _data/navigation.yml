@@ -4,7 +4,7 @@ en:
 #    url:   "/"
   home:
     title: "Home"
-    url:   "/"
+    url:   "/index.html"
   about:
     title: "About"
     url:   "/about/"
