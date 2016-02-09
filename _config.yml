@@ -14,7 +14,7 @@ gems:
 defaults:
   -
     scope:
-      path: "/"
+      path: ""
     values:
       lang: en
   -
