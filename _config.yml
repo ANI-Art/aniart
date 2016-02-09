@@ -14,9 +14,9 @@ gems:
 defaults:
   -
     scope:
-      path: ""
+      path: "/"
     values:
-      some: ""
+      lang: en
   -
     scope:
       path: "_posts/en"
