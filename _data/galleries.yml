@@ -55,15 +55,30 @@ en:
     desc: Dance, acryl on canvas, 50x70, 2015
     category: abstractions
   file12:
-    image: /gallery/unity.jpg
-    thumb: /gallery/thumb-unity.jpg
-    desc: Unity, oil on canvas, 70x50, 2015
+    image: /gallery/connection.jpg
+    thumb: /gallery/thumb-connection.jpg
+    desc: Connection, oil on canvas, 70x50, 2015
     category: talismans
   file13:
     image: /gallery/bunch-of-flowers.jpg
     thumb: /gallery/thumb-bunch-of-flowers.jpg
     desc: Bunch of Flowers, oil on canvas, 50x70, 2015
-    category: still life
+    category: still-life
+  file14:
+    image: /gallery/sea.jpg
+    thumb: /gallery/thumb-sea.jpg
+    desc: Sea, oil on canvas, 50x40, 2015
+    category: landscapes
+  file15:
+    image: /gallery/italian-patio.jpg
+    thumb: /gallery/thumb-italian-patio.jpg
+    desc: Italian Patio, oil on canvas, 80x60, 2015
+    category: landscapes
+  file16:
+    image: /gallery/anninmuiza's-pond.jpg
+    thumb: /gallery/thumb-anninmuiza's-pond.jpg
+    desc: Anninmuiza's Pond, oil on canvas, 50x70, 2016
+    category: landscapes
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -121,15 +136,30 @@ ru:
     desc: Танец, холст/акрил, 50x70, 2015
     category: abstractions
   file12:
-    image: /gallery/unity.jpg
-    thumb: /gallery/thumb-unity.jpg
+    image: /gallery/connection.jpg
+    thumb: /gallery/thumb-connection.jpg
     desc: Соединение, холст/масло, 70x50, 2015
     category: talismans
   file13:
     image: /gallery/bunch-of-flowers.jpg
     thumb: /gallery/thumb-bunch-of-flowers.jpg
     desc: Букет цветов, холст/масло, 50x70, 2015
-    category: still life
+    category: still-life
+  file14:
+    image: /gallery/sea.jpg
+    thumb: /gallery/thumb-sea.jpg
+    desc: Море, холст/масло, 50x40, 2015
+    category: landscapes
+  file15:
+    image: /gallery/italian-patio.jpg
+    thumb: /gallery/thumb-italian-patio.jpg
+    desc: Итальянский дворик, холст/масло, 80x60, 2015
+    category: landscapes
+  file16:
+    image: /gallery/anninmuiza's-pond.jpg
+    thumb: /gallery/thumb-anninmuiza's-pond.jpg
+    desc: Пруд Анниньмуйжа, холст/масло, 50x70, 2016
+    category: landscapes
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -187,12 +217,27 @@ lv:
     desc: Deja, audeklis/akrils, 50x70, 2015
     category: abstractions
   file12:
-    image: /gallery/unity.jpg
-    thumb: /gallery/thumb-unity.jpg
+    image: /gallery/collection.jpg
+    thumb: /gallery/thumb-connection.jpg
     desc: Savienojums, audeklis/eļļa, 70x50, 2015
     category: talismans
   file13:
     image: /gallery/bunch-of-flowers.jpg
     thumb: /gallery/thumb-bunch-of-flowers.jpg
     desc: Puķu pušķis, audeklis/eļļa, 50x70, 2015
-    category: still life
+    category: still-life
+  file14:
+    image: /gallery/sea.jpg
+    thumb: /gallery/thumb-sea.jpg
+    desc: Jūra, audeklis/eļļa, 50x40, 2015
+    category: landscapes
+  file15:
+    image: /gallery/italian-patio.jpg
+    thumb: /gallery/thumb-italian-patio.jpg
+    desc: Itāļu sēta, audeklis/eļļa, 80x60, 2015
+    category: landscapes
+  file16:
+    image: /gallery/anninmuiza's-pond.jpg
+    thumb: /gallery/thumb-anninmuiza's-pond.jpg
+    desc: Anniņmuižas dīķis, audeklis/eļļa, 50x70, 2016
+    category: landscapes

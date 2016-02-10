@@ -3,14 +3,16 @@
   <ul class="portfolio-filter text-center">
     <li><a class="btn btn-default active" href="#" data-filter="*">{{ site.data.translations[page.lang].all }}</a></li>
     <li><a class="btn btn-default" href="#" data-filter=".landscapes">{{ site.data.translations[page.lang].landscapes }}</a></li>
+    <li><a class="btn btn-default" href="#" data-filter=".still-life">{{ site.data.translations[page.lang].still-life }}</a></li>
     <li><a class="btn btn-default" href="#" data-filter=".portraits">{{ site.data.translations[page.lang].portraits }}</a></li>
     <li><a class="btn btn-default" href="#" data-filter=".talismans">{{ site.data.translations[page.lang].talismans }}</a></li>
+    <li><a class="btn btn-default" href="#" data-filter=".abstractions">{{ site.data.translations[page.lang].abstractions }}</a></li>
   </ul><!--/#portfolio-filter-->
 
   <div class="row">
     <div class="portfolio-items">
 
-      {% for imagefile in site.data.galleries[page.lang] %}
+      {% for imagefile in site.data.galleries[page.lang] reversed %}
 
       <div class="portfolio-item {{ imagefile[1].category }} col-xs-12 col-sm-4 col-md-4">
         <div class="recent-work-wrap">
