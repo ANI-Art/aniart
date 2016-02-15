@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
   <head prefix="og: http://ogp.me/ns#">
-    <title>ANI Art - {{ site.data.translations[page.lang].latvian-artist }} {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }}</title>
+    <title>ANI Art - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }}</title>
 
     <meta charset="utf-8">
     {% include all-meta-tags.html %}
@@ -41,13 +41,13 @@
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav hidden-md hidden-lg">
+          <ul class="nav navbar-nav hidden-sm hidden-md hidden-lg">
             {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
             {% for post in posts %}
             <li class="navbar-title"><a href="{{ post.url }}" class="{{ post.lang }}">{% if post.lang == 'en' %}{{ site.data.translations[page.lang].en }}{% else %}{% if post.lang == 'ru' %}{{ site.data.translations[page.lang].ru }}{% else %}{{ site.data.translations[page.lang].lv }}{% endif %}{% endif %}</a></li>
             {% endfor %}
           </ul> 
-          <hr class="hidden-md hidden-lg">
+          <hr class="hidden-sm hidden-md hidden-lg">
           <ul class="nav navbar-nav">
             {% for menu in site.data.navigation[page.lang] %}
             <li {% if menu[1].title == page.title %}class="active"{% endif %}><a title="{{ menu[1].title | strip_newlines | strip_html }}" href="{{ menu[1].url }}">{{ menu[1].title | strip_newlines | strip_html }}</a></li>

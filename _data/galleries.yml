@@ -2,242 +2,434 @@ en:
   file01:
     image: /gallery/entry.jpg
     thumb: /gallery/thumb-entry.jpg
-    desc: Entry, oil on canvas, 70x50, 2015
+    title: Entry
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2015
     category: landscapes
   file02:
     image: /gallery/ballet-dancer.jpg 
     thumb: /gallery/thumb-ballet-dancer.jpg
-    desc: Ballet Dancer, oil on canvas, 70x50, 2015
+    title: Ballet Dancer
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2015
     category: 
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
-    desc: Wave, oil on canvas, 50x40, 2015
+    title: Wave
+    materials: oil on canvas
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file04:
     image: /gallery/winter-landscape.jpg
     thumb: /gallery/thumb-winter-landscape.jpg
-    desc: Winter Landscape, oil on canvas, 50x40, 2015
+    title: Winter Landscape
+    materials: oil on canvas
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file05:
     image: /gallery/esperanza.jpg
     thumb: /gallery/thumb-esperanza.jpg
-    desc: Esperanza, oil on canvas, 70x50, 2015
+    title: Esperanza
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2015
     category: talismans
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
-    desc: Moon, oil on canvas, 70x50, 2015
+    title: Moon
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2015
     category: talismans
   file07:
     image: /gallery/old-town-of-riga.jpg
     thumb: /gallery/thumb-old-town-of-riga.jpg
-    desc: Old Town of Riga, oil on canvas, 70x50, 2014
+    title: Old Town of Riga
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2014
     category: landscapes
   file08:
     image: /gallery/dreaming-in-color.jpg
     thumb: /gallery/thumb-dreaming-in-color.jpg
-    desc: Dreaming in Color, oil on canvas, 80x60, 2014 (in private collection)
+    title: Dreaming in Color (in private collection)
+    materials: oil on canvas
+    height: 60
+    width: 80
+    year: 2014
     category: talismans
   file09:
     image: /gallery/anaid.jpg
     thumb: /gallery/thumb-anaid.jpg
-    desc: Anaid, oil on canvas, 60x50, 2015
+    title: Anaid
+    materials: oil on canvas
+    height: 60
+    width: 50
+    year: 2015
     category: portraits
   file10:
     image: /gallery/jurmala.jpg
     thumb: /gallery/thumb-jurmala.jpg
-    desc: Jurmala, oil on canvas, 40x30, 2015 (in private collection)
+    title: Jurmala (in private collection)
+    materials: oil on canvas
+    height: 30
+    width: 40
+    year: 2015
     category: landscapes
   file11:
     image: /gallery/dance.jpg
     thumb: /gallery/thumb-dance.jpg
-    desc: Dance, acryl on canvas, 50x70, 2015
+    title: Dance
+    materials: acryl on canvas
+    height: 70
+    width: 50
+    year: 2015
     category: abstractions
   file12:
     image: /gallery/connection.jpg
     thumb: /gallery/thumb-connection.jpg
-    desc: Connection, oil on canvas, 70x50, 2015
+    title: Connection
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2015
     category: talismans
   file13:
     image: /gallery/bunch-of-flowers.jpg
     thumb: /gallery/thumb-bunch-of-flowers.jpg
-    desc: Bunch of Flowers, oil on canvas, 50x70, 2015
+    title: Bunch of Flowers
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2015
     category: still-life
   file14:
     image: /gallery/sea.jpg
     thumb: /gallery/thumb-sea.jpg
-    desc: Sea, oil on canvas, 50x40, 2015
+    title: Sea
+    materials: oil on canvas
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file15:
     image: /gallery/italian-patio.jpg
     thumb: /gallery/thumb-italian-patio.jpg
-    desc: Italian Patio, oil on canvas, 80x60, 2015
+    title: Italian Patio
+    materials: oil on canvas
+    height: 60
+    width: 80
+    year: 2015
     category: landscapes
   file16:
     image: /gallery/anninmuiza's-pond.jpg
     thumb: /gallery/thumb-anninmuiza's-pond.jpg
-    desc: Anninmuiza's Pond, oil on canvas, 50x70, 2016
+    title: Anninmuiza's Pond
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2015
     category: landscapes
 ru:
   file01:
     image: /gallery/entry.jpg
     thumb: /gallery/thumb-entry.jpg
-    desc: Устье, холст/масло, 70x50, 2015
+    title: Устье 
+    materials: холст/масло
+    height: 50
+    width: 70
+    year: 2015
     category: landscapes
   file02:
     image: /gallery/ballet-dancer.jpg 
     thumb: /gallery/thumb-ballet-dancer.jpg
-    desc: Балерина, холст/масло, 70x50, 2015
+    title: Балерина
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2015
     category: 
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
-    desc: Волна, холст/масло, 50x40, 2015
+    title: Волна
+    materials: холст/масло
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file04:
     image: /gallery/winter-landscape.jpg
     thumb: /gallery/thumb-winter-landscape.jpg
-    desc: Зимний пейзаж, холст/масло, 50x40, 2015
+    title: Зимний пейзаж 
+    materials: холст/масло
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file05:
     image: /gallery/esperanza.jpg
     thumb: /gallery/thumb-esperanza.jpg
-    desc: Эсперанса, холст/масло, 70x50, 2015
+    title: Эсперанса 
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2015
     category: talismans
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
-    desc: Луна, холст/масло, 70x50, 2015
+    title: Луна 
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2015
     category: talismans
   file07:
     image: /gallery/old-town-of-riga.jpg
     thumb: /gallery/thumb-old-town-of-riga.jpg
-    desc: Старая Рига, холст/масло, 70x50, 2014
+    title: Старая Рига 
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2014
     category: landscapes
   file08:
     image: /gallery/dreaming-in-color.jpg
     thumb: /gallery/thumb-dreaming-in-color.jpg
-    desc: Цветные сны, холст/масло, 80x60, 2014 (в частной коллекции)
+    title: Цветные сны (в частной коллекции)
+    materials: холст/масло
+    height: 60
+    width: 80
+    year: 2014
     category: talismans
   file09:
     image: /gallery/anaid.jpg
     thumb: /gallery/thumb-anaid.jpg
-    desc: Анаид, холст/масло, 60x50, 2015
+    title: Анаид 
+    materials: холст/масло
+    height: 60
+    width: 50
+    year: 2015
     category: portraits
   file10:
     image: /gallery/jurmala.jpg
     thumb: /gallery/thumb-jurmala.jpg
-    desc: Юрмала, холст/масло, 40x30, 2015 (в частной коллекции)
+    title: Юрмала (в частной коллекции)
+    materials: холст/масло
+    height: 30
+    width: 40
+    year: 2015
     category: landscapes
   file11:
     image: /gallery/dance.jpg
     thumb: /gallery/thumb-dance.jpg
-    desc: Танец, холст/акрил, 50x70, 2015
+    title: Танец 
+    materials: холст/акрил
+    height: 70
+    width: 50
+    year: 2015
     category: abstractions
   file12:
     image: /gallery/connection.jpg
     thumb: /gallery/thumb-connection.jpg
-    desc: Соединение, холст/масло, 70x50, 2015
+    title: Соединение 
+    materials: холст/масло
+    height: 50
+    width: 70
+    year: 2015
     category: talismans
   file13:
     image: /gallery/bunch-of-flowers.jpg
     thumb: /gallery/thumb-bunch-of-flowers.jpg
-    desc: Букет цветов, холст/масло, 50x70, 2015
+    title: Букет цветов 
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2015
     category: still-life
   file14:
     image: /gallery/sea.jpg
     thumb: /gallery/thumb-sea.jpg
-    desc: Море, холст/масло, 50x40, 2015
+    title: Море
+    materials: холст/масло
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file15:
     image: /gallery/italian-patio.jpg
     thumb: /gallery/thumb-italian-patio.jpg
-    desc: Итальянский дворик, холст/масло, 80x60, 2015
+    title: Итальянский дворик
+    materials: холст/масло
+    height: 60
+    width: 80
+    year: 2015
     category: landscapes
   file16:
     image: /gallery/anninmuiza's-pond.jpg
     thumb: /gallery/thumb-anninmuiza's-pond.jpg
-    desc: Пруд Анниньмуйжа, холст/масло, 50x70, 2016
+    title: Пруд Анниньмуйжа 
+    materials: холст/масло
+    height: 50
+    width: 70
+    year: 2016
     category: landscapes
 lv:
   file01:
     image: /gallery/entry.jpg
     thumb: /gallery/thumb-entry.jpg
-    desc: Grīva, audeklis/eļļa, 70x50, 2015
+    title: Grīva 
+    materials: audeklis/eļļa
+    height: 50
+    width: 70
+    year: 2015
     category: landscapes
   file02:
     image: /gallery/ballet-dancer.jpg 
     thumb: /gallery/thumb-ballet-dancer.jpg
-    desc: Baleta dejotāja, audeklis/eļļa, 70x50, 2015
+    title: Baleta dejotāja 
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2015
     category: 
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
-    desc: Vilnis, audeklis/eļļa, 50x40, 2015
+    title: Vilnis 
+    materials: audeklis/eļļa
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file04:
     image: /gallery/winter-landscape.jpg
     thumb: /gallery/thumb-winter-landscape.jpg
-    desc: Ziemas ainava, audeklis/eļļa, 50x40, 2015
+    title: Ziemas ainava 
+    materials: audeklis/eļļa
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file05:
     image: /gallery/esperanza.jpg
     thumb: /gallery/thumb-esperanza.jpg
-    desc: Esperanza, audeklis/eļļa, 70x50, 2015
+    title: Esperanza 
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2015
     category: talismans
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
-    desc: Mēness, audeklis/eļļa, 70x50, 2015
+    title: Mēness 
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2015
     category: talismans
   file07:
     image: /gallery/old-town-of-riga.jpg
     thumb: /gallery/thumb-old-town-of-riga.jpg
-    desc: Vecrīga, audeklis/eļļa, 70x50, 2014
+    title: Vecrīga 
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2014
     category: landscapes
   file08:
     image: /gallery/dreaming-in-color.jpg
     thumb: /gallery/thumb-dreaming-in-color.jpg
-    desc: Krāsaini sapņi, audeklis/eļļa, 80x60, 2014 (privātā kolekcijā)
+    title: Krāsaini sapņi (privātā kolekcijā)
+    materials: audeklis/eļļa
+    height: 60
+    width: 80
+    year: 2014
     category: talismans
   file09:
     image: /gallery/anaid.jpg
     thumb: /gallery/thumb-anaid.jpg
-    desc: Anaid, audeklis/eļļa, 60x50, 2015
+    title: Anaid 
+    materials: audeklis/eļļa
+    height: 50
+    width: 60
+    year: 2015
     category: portraits
   file10:
     image: /gallery/jurmala.jpg
     thumb: /gallery/thumb-jurmala.jpg
-    desc: Jūrmala, audeklis/eļļa, 40x30, 2015 (privātā kolekcijā)
+    title: Jūrmala (privātā kolekcijā)
+    materials: audeklis/eļļa
+    height: 30
+    width: 40
+    year: 2015
     category: landscapes
   file11:
     image: /gallery/dance.jpg
     thumb: /gallery/thumb-dance.jpg
-    desc: Deja, audeklis/akrils, 50x70, 2015
+    title: Deja 
+    materials: audeklis/akrils
+    height: 70
+    width: 50
+    year: 2015
     category: abstractions
   file12:
     image: /gallery/collection.jpg
     thumb: /gallery/thumb-connection.jpg
-    desc: Savienojums, audeklis/eļļa, 70x50, 2015
+    title: Savienojums 
+    materials: audeklis/eļļa
+    height: 50
+    width: 70
+    year: 2015
     category: talismans
   file13:
     image: /gallery/bunch-of-flowers.jpg
     thumb: /gallery/thumb-bunch-of-flowers.jpg
-    desc: Puķu pušķis, audeklis/eļļa, 50x70, 2015
+    title: Puķu pušķis 
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2015
     category: still-life
   file14:
     image: /gallery/sea.jpg
     thumb: /gallery/thumb-sea.jpg
-    desc: Jūra, audeklis/eļļa, 50x40, 2015
+    title: Jūra 
+    materials: audeklis/eļļa
+    height: 40
+    width: 50
+    year: 2015
     category: landscapes
   file15:
     image: /gallery/italian-patio.jpg
     thumb: /gallery/thumb-italian-patio.jpg
-    desc: Itāļu sēta, audeklis/eļļa, 80x60, 2015
+    title: Itāļu sēta 
+    materials: audeklis/eļļa
+    height: 60
+    width: 80
+    year: 2015
     category: landscapes
   file16:
     image: /gallery/anninmuiza's-pond.jpg
     thumb: /gallery/thumb-anninmuiza's-pond.jpg
-    desc: Anniņmuižas dīķis, audeklis/eļļa, 50x70, 2016
+    title: Anniņmuižas dīķis 
+    materials: audeklis/eļļa
+    height: 50
+    width: 70
+    year: 2016
     category: landscapes
