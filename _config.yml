@@ -11,6 +11,16 @@ redcarpet:
 gems:
   - jekyll-redirect-from
 
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: true
+  profile: false
+  startings: []
+
 defaults:
   -
     scope:
