@@ -27,4 +27,11 @@ type: other
       <image:title>{{ post.title | replace: '<br/>', '' }}</image:title>
     </image:image>
   </url>{% endif %}{% endfor %}
+  <url>
+    <loc>http://aniart.eu/about/</loc>
+    <image:image>
+      <image:loc>http://aniart.eu/img/about.jpg</image:loc>
+      <image:title>Nadezda Tarasova</image:title>
+    </image:image>
+  </url>
 </urlset>
