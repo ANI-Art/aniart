@@ -143,6 +143,33 @@ en:
     width: 70
     year: 2015
     category: landscapes
+  file17:
+    image: /gallery/turn-onto-varnukrogs.jpg
+    thumb: /gallery/thumb-turn-onto-varnukrogs.jpg
+    title: Turn onto Varnukrogs
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
+  file18:
+    image: /gallery/enchantress.jpg
+    thumb: /gallery/thumb-enchantress.jpg
+    title: Enchantress
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2016
+    category: talismans
+  file19:
+    image: /gallery/pier-in-mangalsala.jpg
+    thumb: /gallery/thumb-pier-in-mangalsala.jpg
+    title: Pier in Mangalsala
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -288,6 +315,33 @@ ru:
     width: 70
     year: 2016
     category: landscapes
+  file17:
+    image: /gallery/turn-onto-varnukrogs.jpg
+    thumb: /gallery/thumb-turn-onto-varnukrogs.jpg
+    title: Поворот на Варнукрогс
+    materials: холст/масло
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
+  file18:
+    image: /gallery/enchantress.jpg
+    thumb: /gallery/thumb-enchantress.jpg
+    title: Волшебница
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2016
+    category: talismans
+  file19:
+    image: /gallery/pier-in-mangalsala.jpg
+    thumb: /gallery/thumb-pier-in-mangalsala.jpg
+    title: Мол Мангальсала
+    materials: холст/масло
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -428,6 +482,33 @@ lv:
     image: /gallery/anninmuiza's-pond.jpg
     thumb: /gallery/thumb-anninmuiza's-pond.jpg
     title: Anniņmuižas dīķis 
+    materials: audeklis/eļļa
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
+  file17:
+    image: /gallery/turn-onto-varnukrogs.jpg
+    thumb: /gallery/thumb-turn-onto-varnukrogs.jpg
+    title: Pagrieziens uz Vārnukroga
+    materials: audeklis/eļļa
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
+  file18:
+    image: /gallery/enchantress.jpg
+    thumb: /gallery/thumb-enchantress.jpg
+    title: Burve
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2016
+    category: talismans
+  file19:
+    image: /gallery/pier-in-mangalsala.jpg
+    thumb: /gallery/thumb-pier-in-mangalsala.jpg
+    title: Mangaļsalas mols 
     materials: audeklis/eļļa
     height: 50
     width: 70
