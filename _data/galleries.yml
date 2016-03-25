@@ -72,13 +72,13 @@ en:
     year: 2014
     category: talismans
   file09:
-    image: /gallery/anaid.jpg
-    thumb: /gallery/thumb-anaid.jpg
-    title: Anaid
+    image: /gallery/portrait-of-diana-andreeva.jpg
+    thumb: /gallery/thumb-portrait-of-diana-andreeva.jpg
+    title: Portrait of Diana Andreeva
     materials: oil on canvas
     height: 60
     width: 50
-    year: 2015
+    year: 2016
     category: portraits
   file10:
     image: /gallery/jurmala.jpg
@@ -244,13 +244,13 @@ ru:
     year: 2014
     category: talismans
   file09:
-    image: /gallery/anaid.jpg
-    thumb: /gallery/thumb-anaid.jpg
-    title: Анаид 
+    image: /gallery/portrait-of-diana-andreeva.jpg
+    thumb: /gallery/thumb-portrait-of-diana-andreeva.jpg
+    title: Портрет Дианы Андреевой
     materials: холст/масло
     height: 60
     width: 50
-    year: 2015
+    year: 2016
     category: portraits
   file10:
     image: /gallery/jurmala.jpg
@@ -416,13 +416,13 @@ lv:
     year: 2014
     category: talismans
   file09:
-    image: /gallery/anaid.jpg
-    thumb: /gallery/thumb-anaid.jpg
-    title: Anaid 
+    image: /gallery/portrait-of-diana-andreeva.jpg
+    thumb: /gallery/thumb-portrait-of-diana-andreeva.jpg
+    title: Diānas Andrejevas portrets
     materials: audeklis/eļļa
     height: 50
     width: 60
-    year: 2015
+    year: 2016
     category: portraits
   file10:
     image: /gallery/jurmala.jpg
