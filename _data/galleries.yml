@@ -170,6 +170,15 @@ en:
     width: 70
     year: 2016
     category: landscapes
+  file20:
+    image: /gallery/redondela-allee.jpg
+    thumb: /gallery/thumb-redondela-allee.jpg
+    title: Redondela Allee (in private collection)
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -342,6 +351,15 @@ ru:
     width: 70
     year: 2016
     category: landscapes
+  file20:
+    image: /gallery/redondela-allee.jpg
+    thumb: /gallery/thumb-redondela-allee.jpg
+    title: Аллея в Редонделе (в частной коллекции)
+    materials: холст/масло
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -509,6 +527,15 @@ lv:
     image: /gallery/pier-in-mangalsala.jpg
     thumb: /gallery/thumb-pier-in-mangalsala.jpg
     title: Mangaļsalas mols 
+    materials: audeklis/eļļa
+    height: 50
+    width: 70
+    year: 2016
+    category: landscapes
+  file20:
+    image: /gallery/redondela-allee.jpg
+    thumb: /gallery/thumb-redondela-allee.jpg
+    title: Aleja Redondelā (privātā kolekcijā)
     materials: audeklis/eļļa
     height: 50
     width: 70
