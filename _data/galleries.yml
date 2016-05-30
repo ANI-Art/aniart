@@ -179,6 +179,15 @@ en:
     width: 70
     year: 2016
     category: landscapes
+  file21:
+    image: /gallery/my-heart.jpg
+    thumb: /gallery/thumb-my-heart.jpg
+    title: My Heart, inspired by Stanka Kordic 'All at Once' (in private collection)
+    materials: oil on canvas
+    height: 40
+    width: 50
+    year: 2016
+    category: portraits
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -360,6 +369,15 @@ ru:
     width: 70
     year: 2016
     category: landscapes
+  file21:
+    image: /gallery/my-heart.jpg
+    thumb: /gallery/thumb-my-heart.jpg
+    title: Сердце моё, по мотивам Stanka Kordic 'All at Once' (в частной коллекции)
+    materials: холст/масло
+    height: 40
+    width: 50
+    year: 2016
+    category: portraits
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -541,3 +559,12 @@ lv:
     width: 70
     year: 2016
     category: landscapes
+  file21:
+    image: /gallery/my-heart.jpg
+    thumb: /gallery/thumb-my-heart.jpg
+    title: Mans sirds, pamatojoties uz Stanka Kordic 'All at Once' (privātā kolekcijā)
+    materials: audeklis/eļļa
+    height: 40
+    width: 50
+    year: 2016
+    category: portraits
