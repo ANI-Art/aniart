@@ -187,7 +187,16 @@ en:
     height: 40
     width: 50
     year: 2016
-    category: portraits
+    category: genre-painting
+  file22:
+    image: /gallery/evening.jpg
+    thumb: /gallery/thumb-evening.jpg
+    title: Evening
+    materials: oil on canvas
+    height: 50
+    width: 40
+    year: 2016
+    category: genre-painting
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -377,7 +386,16 @@ ru:
     height: 40
     width: 50
     year: 2016
-    category: portraits
+    category: genre-painting
+  file22:
+    image: /gallery/evening.jpg
+    thumb: /gallery/thumb-evening.jpg
+    title: Вечер
+    materials: холст/масло
+    height: 50
+    width: 40
+    year: 2016
+    category: genre-painting
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -567,4 +585,13 @@ lv:
     height: 40
     width: 50
     year: 2016
-    category: portraits
+    category: genre-painting
+  file22:
+    image: /gallery/evening.jpg
+    thumb: /gallery/thumb-evening.jpg
+    title: Vakars
+    materials: audeklis/eļļa
+    height: 50
+    width: 40
+    year: 2016
+    category: genre-painting
