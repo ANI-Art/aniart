@@ -8,7 +8,7 @@ highlighter: rouge
 redcarpet:
   extensions: ['smart', 'superscript']
 
-gems:
+plugins:
   - jekyll-redirect-from
 
 compress_html:
