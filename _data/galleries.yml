@@ -1,3 +1,4 @@
+
 en:
   file01:
     image: /gallery/entry.jpg
@@ -20,7 +21,7 @@ en:
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
-    title: Wave
+    title: Wave (in private collection)
     materials: oil on canvas
     height: 40
     width: 50
@@ -47,7 +48,7 @@ en:
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
-    title: Moon
+    title: Moon (in private collection)
     materials: oil on canvas
     height: 70
     width: 50
@@ -74,7 +75,7 @@ en:
   file09:
     image: /gallery/portrait-of-diana-andreeva.jpg
     thumb: /gallery/thumb-portrait-of-diana-andreeva.jpg
-    title: Portrait of Diana Andreeva
+    title: Portrait of Diana Andreeva (in private collection)
     materials: oil on canvas
     height: 60
     width: 50
@@ -119,7 +120,7 @@ en:
   file14:
     image: /gallery/sea.jpg
     thumb: /gallery/thumb-sea.jpg
-    title: Sea
+    title: Sea (in private collection)
     materials: oil on canvas
     height: 40
     width: 50
@@ -227,7 +228,7 @@ en:
   file26:
     image: /gallery/two-apple-trees.jpg
     thumb: /gallery/thumb-two-apple-trees.jpg
-    title: Two Apple Trees
+    title: Two Apple Trees (in private collection)
     materials: oil on canvas
     height: 30
     width: 40
@@ -332,6 +333,123 @@ en:
     width: 50
     year: 2017
     category: landscapes
+  file38:
+    image: /gallery/frozen-flowers.jpeg
+    thumb: /gallery/thumb-frozen-flowers.jpeg
+    title: Frozen Flowers
+    materials: acryl on canvas
+    height: 60
+    width: 60
+    year: 2017
+    category: abstractions
+  file39:
+    image: /gallery/margarita.jpeg
+    thumb: /gallery/thumb-margarita.jpeg
+    title: Margarita
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2018
+    category: genre-painting
+  file40:
+    image: /gallery/divination.jpg
+    thumb: /gallery/thumb-divination.jpg
+    title: Divination
+    materials: oil on canvas
+    height: 60
+    width: 60
+    year: 2018
+    category: genre-painting
+  file41:
+    image: /gallery/lying-in-a-hammock.jpg
+    thumb: /gallery/thumb-lying-in-a-hammock.jpg
+    title: Lying in a Hammock
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2018
+    category: abstractions
+  file42:
+    image: /gallery/rhododendrons-near-the-pond.jpeg
+    thumb: /gallery/thumb-rhododendrons-near-the-pond.jpeg
+    title: Rhododendrons near the Pond (in private collection)
+    materials: oil on canvas
+    height: 40
+    width: 50
+    year: 2018
+    category: landscapes
+  file43:
+    image: /gallery/birthday.jpeg
+    thumb: /gallery/thumb-birthday.jpeg
+    title: Birthday
+    materials: acryl on canvas
+    height: 50
+    width: 40
+    year: 2018
+    category: genre-painting
+  file44:
+    image: /gallery/kodama-tree.jpeg
+    thumb: /gallery/thumb-kodama-tree.jpeg
+    title: Kodama Tree
+    materials: acryl on canvas
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
+  file45:
+    image: /gallery/rain.jpg
+    thumb: /gallery/thumb-rain.jpg
+    title: Rain
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2018
+    category: abstractions
+  file46:
+    image: /gallery/night-violets.jpeg
+    thumb: /gallery/thumb-night-violets.jpeg
+    title: Night Violets
+    materials: acryl on canvas
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
+  file47:
+    image: /gallery/windy.jpeg
+    thumb: /gallery/thumb-windy.jpeg
+    title: Windy
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2018
+    category: genre-painting
+  file48:
+    image: /gallery/unity.jpeg
+    thumb: /gallery/thumb-unity.jpeg
+    title: Unity
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2018
+    category: talismans
+  file49:
+    image: /gallery/apple-trees-from-the-childhood.jpeg
+    thumb: /gallery/thumb-apple-trees-from-the-childhood.jpeg
+    title: Apple-trees from the Childhood
+    materials: oil on canvas/cardboard
+    height: 21
+    width: 30
+    year: 2018
+    category: landscapes
+  file50:
+    image: /gallery/little-artyom-apple-tree.jpeg
+    thumb: /gallery/thumb-little-artyom-apple-tree.jpeg
+    title: Little Artyom Apple-tree
+    materials: oil on canvas
+    height: 30
+    width: 30
+    year: 2018
+    category: landscapes
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -354,7 +472,7 @@ ru:
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
-    title: Волна
+    title: Волна (в частной коллекции)
     materials: холст/масло
     height: 40
     width: 50
@@ -381,7 +499,7 @@ ru:
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
-    title: Луна 
+    title: Луна (в частной коллекции)
     materials: холст/масло
     height: 70
     width: 50
@@ -408,7 +526,7 @@ ru:
   file09:
     image: /gallery/portrait-of-diana-andreeva.jpg
     thumb: /gallery/thumb-portrait-of-diana-andreeva.jpg
-    title: Портрет Дианы Андреевой
+    title: Портрет Дианы Андреевой (в частной коллекции)
     materials: холст/масло
     height: 60
     width: 50
@@ -453,7 +571,7 @@ ru:
   file14:
     image: /gallery/sea.jpg
     thumb: /gallery/thumb-sea.jpg
-    title: Море
+    title: Море (в частной коллекции)
     materials: холст/масло
     height: 40
     width: 50
@@ -562,7 +680,7 @@ ru:
   file26:
     image: /gallery/two-apple-trees.jpg
     thumb: /gallery/thumb-two-apple-trees.jpg
-    title: Two Apple Trees
+    title: Две яблони (в частной коллекции)
     materials: oil on canvas
     height: 30
     width: 40
@@ -667,6 +785,123 @@ ru:
     width: 50
     year: 2017
     category: landscapes
+  file38:
+    image: /gallery/frozen-flowers.jpeg
+    thumb: /gallery/thumb-frozen-flowers.jpeg
+    title: Ледяные Цветы
+    materials: холст/акрил
+    height: 60
+    width: 60
+    year: 2017
+    category: landscapes
+  file39:
+    image: /gallery/frozen-margarita.jpeg
+    thumb: /gallery/thumb-margarita.jpeg
+    title: Маргарита
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2018
+    category: genre-painting
+  file40:
+    image: /gallery/divination.jpg
+    thumb: /gallery/thumb-divination.jpg
+    title: Гадание
+    materials: холст/масло
+    height: 60
+    width: 60
+    year: 2018
+    category: genre-painting
+  file41:
+    image: /gallery/lying-in-a-hammock.jpg
+    thumb: /gallery/thumb-lying-in-a-hammock.jpg
+    title: Лёжа в гамаке
+    materials: холст/акрил
+    height: 80
+    width: 100
+    year: 2018
+    category: abstractions
+  file42:
+    image: /gallery/rhododendrons-near-the-pond.jpeg
+    thumb: /gallery/thumb-rhododendrons-near-the-pond.jpeg
+    title: Рододендроны у пруда (в частной коллекции)
+    materials: холст/масло
+    height: 40
+    width: 50
+    year: 2018
+    category: landscapes
+  file43:
+    image: /gallery/birthday.jpeg
+    thumb: /gallery/thumb-birthday.jpeg
+    title: День рождения
+    materials: холст/акрил
+    height: 50
+    width: 40
+    year: 2018
+    category: landscapes
+  file44:
+    image: /gallery/kodama-tree.jpeg
+    thumb: /gallery/thumb-kodama-tree.jpeg
+    title: Дерево Кодама
+    materials: холст/акрил
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
+  file45:
+    image: /gallery/rain.jpg
+    thumb: /gallery/thumb-rain.jpg
+    title: Дождь
+    materials: холст/акрил
+    height: 80
+    width: 100
+    year: 2018
+    category: abstractions
+  file46:
+    image: /gallery/night-violets.jpeg
+    thumb: /gallery/thumb-night-violets.jpeg
+    title: Ночные фиалки
+    materials: холст/акрил
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
+  file47:
+    image: /gallery/windy.jpeg
+    thumb: /gallery/thumb-windy.jpeg
+    title: Ветер в голове
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2018
+    category: genre-painting
+  file48:
+    image: /gallery/unity.jpeg
+    thumb: /gallery/thumb-unity.jpeg
+    title: Единство
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2018
+    category: talismans
+  file49:
+    image: /gallery/apple-trees-from-the-childhood.jpeg
+    thumb: /gallery/thumb-apple-trees-from-the-childhood.jpeg
+    title: Яблони из детства
+    materials: холст/картон/масло
+    height: 21
+    width: 30
+    year: 2018
+    category: landscapes
+  file50:
+    image: /gallery/little-artyom-apple-tree.jpeg
+    thumb: /gallery/thumb-little-artyom-apple-tree.jpeg
+    title: Яблоня маленького Артёма
+    materials: холст/масло
+    height: 30
+    width: 30
+    year: 2018
+    category: landscapes
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -689,7 +924,7 @@ lv:
   file03:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
-    title: Vilnis 
+    title: Vilnis (privātā kolekcijā)
     materials: audeklis/eļļa
     height: 40
     width: 50
@@ -716,7 +951,7 @@ lv:
   file06:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
-    title: Mēness 
+    title: Mēness (privātā kolekcijā)
     materials: audeklis/eļļa
     height: 70
     width: 50
@@ -743,7 +978,7 @@ lv:
   file09:
     image: /gallery/portrait-of-diana-andreeva.jpg
     thumb: /gallery/thumb-portrait-of-diana-andreeva.jpg
-    title: Diānas Andrejevas portrets
+    title: Diānas Andrejevas portrets (privātā kolekcijā)
     materials: audeklis/eļļa
     height: 50
     width: 60
@@ -788,7 +1023,7 @@ lv:
   file14:
     image: /gallery/sea.jpg
     thumb: /gallery/thumb-sea.jpg
-    title: Jūra 
+    title: Jūra (privātā kolekcijā)
     materials: audeklis/eļļa
     height: 40
     width: 50
@@ -897,7 +1132,7 @@ lv:
   file26:
     image: /gallery/two-apple-trees.jpg
     thumb: /gallery/thumb-two-apple-trees.jpg
-    title: Two Apple Trees
+    title: Two Apple Trees (in private collection)
     materials: oil on canvas
     height: 30
     width: 40
@@ -1001,4 +1236,121 @@ lv:
     height: 40
     width: 50
     year: 2017
+    category: landscapes
+  file38:
+    image: /gallery/frozen-flowers.jpeg
+    thumb: /gallery/thumb-frozen-flowers.jpeg
+    title: Saldēti ziedi
+    materials: audeklis/akrils
+    height: 60
+    width: 60
+    year: 2017
+    category: landscapes
+  file39:
+    image: /gallery/frozen-margarita.jpeg
+    thumb: /gallery/thumb-margarita.jpeg
+    title: Margarita
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2018
+    category: genre-painting
+  file40:
+    image: /gallery/divination.jpg
+    thumb: /gallery/thumb-divination.jpg
+    title: Zīlēšana
+    materials: audeklis/eļļa
+    height: 60
+    width: 60
+    year: 2018
+    category: genre-painting
+  file41:
+    image: /gallery/lying-in-a-hammock.jpg
+    thumb: /gallery/thumb-lying-in-a-hammock.jpg
+    title: Guļamtīklā
+    materials: audeklis/akrils
+    height: 80
+    width: 100
+    year: 2018
+    category: abstractions
+  file42:
+    image: /gallery/rhododendrons-near-the-pond.jpeg
+    thumb: /gallery/thumb-rhododendrons-near-the-pond.jpeg
+    title: Rododendri pie dīķa (privātā kolekcijā)
+    materials: audeklis/eļļa
+    height: 40
+    width: 50
+    year: 2018
+    category: landscapes
+  file43:
+    image: /gallery/birthday.jpeg
+    thumb: /gallery/thumb-birthday.jpeg
+    title: Dzimšanas diena
+    materials: audeklis/akrils
+    height: 50
+    width: 40
+    year: 2018
+    category: landscapes
+  file44:
+    image: /gallery/kodama-tree.jpeg
+    thumb: /gallery/thumb-kodama-tree.jpeg
+    title: Kodama koks
+    materials: audeklis/akrils
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
+  file45:
+    image: /gallery/rain.jpg
+    thumb: /gallery/thumb-rain.jpg
+    title: Lietus
+    materials: audeklis/akrils
+    height: 80
+    width: 100
+    year: 2018
+    category: abstractions
+  file46:
+    image: /gallery/night-violets.jpeg
+    thumb: /gallery/thumb-night-violets.jpeg
+    title: Naktsvijole
+    materials: audeklis/akrils
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
+  file47:
+    image: /gallery/windy.jpeg
+    thumb: /gallery/thumb-windy.jpeg
+    title: Vējš manā galvā
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2018
+    category: genre-painting
+  file48:
+    image: /gallery/unity.jpeg
+    thumb: /gallery/thumb-unity.jpeg
+    title: Vienotība
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2018
+    category: talismans
+  file49:
+    image: /gallery/apple-trees-from-the-childhood.jpeg
+    thumb: /gallery/thumb-apple-trees-from-the-childhood.jpeg
+    title: Ābolu koki no bērnības
+    materials: audeklis/kartons/eļļa
+    height: 21
+    width: 30
+    year: 2018
+    category: landscapes
+  file50:
+    image: /gallery/little-artyom-apple-tree.jpeg
+    thumb: /gallery/thumb-little-artyom-apple-tree.jpeg
+    title: Mazais Artiomas ābolu koks
+    materials: audeklis/eļļa
+    height: 30
+    width: 30
+    year: 2018
     category: landscapes
