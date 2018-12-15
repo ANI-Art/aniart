@@ -450,6 +450,78 @@ en:
     width: 30
     year: 2018
     category: landscapes
+  file51:
+    image: /gallery/self-portrait.jpg
+    thumb: /gallery/thumb-self-portrait.jpg
+    title: Self Portrait
+    materials: oil on canvas
+    height: 50
+    width: 40
+    year: 2018
+    category: portraits
+  file52:
+    image: /gallery/venta-rapid-in-kuldiga.jpg
+    thumb: /gallery/thumb-venta-rapid-in-kuldiga.jpg
+    title: Venta Rapid in Kuldiga
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2018
+    category: landscapes
+  file53:
+    image: /gallery/magic-forest.jpg
+    thumb: /gallery/thumb-magic-forest.jpg
+    title: Magic Forest
+    materials: oil on canvas
+    height: 60
+    width: 60
+    year: 2018
+    category: landscapes
+  file54:
+    image: /gallery/love-lock-bridge.jpg
+    thumb: /gallery/thumb-love-lock-bridge.jpg
+    title: Love Lock Bridge
+    materials: oil on canvas
+    height: 21
+    width: 30
+    year: 2018
+    category: landscapes
+  file55:
+    image: /gallery/autumn-flowers.jpg
+    thumb: /gallery/thumb-autumn-flowers.jpg
+    title: Autumn Flowers
+    materials: oil on canvas
+    height: 30
+    width: 21
+    year: 2018
+    category: still-life
+  file56:
+    image: /gallery/conception.jpg
+    thumb: /gallery/thumb-conception.jpg
+    title: Сonception
+    materials: oil on canvas
+    height: 60
+    width: 60
+    year: 2018
+    category: talismans
+  file57:
+    image: /gallery/winter-morning-in-imanta.jpg
+    thumb: /gallery/thumb-winter-morning-in-imanta.jpg
+    title: Winter morning in Imanta
+    materials: oil on canvas
+    height: 40
+    width: 50
+    year: 2018
+    category: landscapes
+  file58:
+    image: /gallery/pre-desire.jpg
+    thumb: /gallery/thumb-pre-desire.jpg
+    title: Pre-desire
+    materials: oil on canvas
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -902,6 +974,79 @@ ru:
     width: 30
     year: 2018
     category: landscapes
+
+  file51:
+    image: /gallery/self-portrait.jpg
+    thumb: /gallery/thumb-self-portrait.jpg
+    title: Автопортрет
+    materials: холст/масло
+    height: 50
+    width: 40
+    year: 2018
+    category: portraits
+  file52:
+    image: /gallery/venta-rapid-in-kuldiga.jpg
+    thumb: /gallery/thumb-venta-rapid-in-kuldiga.jpg
+    title: Вентский Водопад в Кулдиге
+    materials: холст/масло
+    height: 50
+    width: 70
+    year: 2018
+    category: landscapes
+  file53:
+    image: /gallery/magic-forest.jpg
+    thumb: /gallery/thumb-magic-forest.jpg
+    title: Волшебный Лес
+    materials: холст/масло
+    height: 60
+    width: 60
+    year: 2018
+    category: landscapes
+  file54:
+    image: /gallery/love-lock-bridge.jpg
+    thumb: /gallery/thumb-love-lock-bridge.jpg
+    title: Мостик замков любви
+    materials: холст/масло
+    height: 21
+    width: 30
+    year: 2018
+    category: landscapes
+  file55:
+    image: /gallery/autumn-flowers.jpg
+    thumb: /gallery/thumb-autumn-flowers.jpg
+    title: Осенний букет
+    materials: холст/масло
+    height: 30
+    width: 21
+    year: 2018
+    category: still-life
+  file56:
+    image: /gallery/conception.jpg
+    thumb: /gallery/thumb-conception.jpg
+    title: Зачатие
+    materials: холст/масло
+    height: 60
+    width: 60
+    year: 2018
+    category: talismans
+  file57:
+    image: /gallery/winter-morning-in-imanta.jpg
+    thumb: /gallery/thumb-winter-morning-in-imanta.jpg
+    title: Зимнее утро в Иманте
+    materials: холст/масло
+    height: 40
+    width: 50
+    year: 2018
+    category: landscapes
+  file58:
+    image: /gallery/pre-desire.jpg
+    thumb: /gallery/thumb-pre-desire.jpg
+    title: Преджелание
+    materials: холст/масло
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -1354,3 +1499,76 @@ lv:
     width: 30
     year: 2018
     category: landscapes
+
+  file51:
+    image: /gallery/self-portrait.jpg
+    thumb: /gallery/thumb-self-portrait.jpg
+    title: Pašportrets
+    materials: audeklis/eļļa
+    height: 50
+    width: 40
+    year: 2018
+    category: portraits
+  file52:
+    image: /gallery/venta-rapid-in-kuldiga.jpg
+    thumb: /gallery/thumb-venta-rapid-in-kuldiga.jpg
+    title: Ventas rumba Kuldīgā
+    materials: audeklis/eļļa
+    height: 50
+    width: 70
+    year: 2018
+    category: landscapes
+  file53:
+    image: /gallery/magic-forest.jpg
+    thumb: /gallery/thumb-magic-forest.jpg
+    title: Burvju mežs
+    materials: audeklis/eļļa
+    height: 60
+    width: 60
+    year: 2018
+    category: landscapes
+  file54:
+    image: /gallery/love-lock-bridge.jpg
+    thumb: /gallery/thumb-love-lock-bridge.jpg
+    title: Mīlestības slēdzenes tilts
+    materials: audeklis/eļļa
+    height: 21
+    width: 30
+    year: 2018
+    category: landscapes
+  file55:
+    image: /gallery/autumn-flowers.jpg
+    thumb: /gallery/thumb-autumn-flowers.jpg
+    title: Rudens pušķis
+    materials: audeklis/eļļa
+    height: 30
+    width: 21
+    year: 2018
+    category: still-life
+  file56:
+    image: /gallery/conception.jpg
+    thumb: /gallery/thumb-conception.jpg
+    title: Koncepcija
+    materials: audeklis/eļļa
+    height: 60
+    width: 60
+    year: 2018
+    category: talismans
+  file57:
+    image: /gallery/winter-morning-in-imanta.jpg
+    thumb: /gallery/thumb-winter-morning-in-imanta.jpg
+    title: Ziemas rīts Imantā
+    materials: audeklis/eļļa
+    height: 40
+    width: 50
+    year: 2018
+    category: landscapes
+  file58:
+    image: /gallery/pre-desire.jpg
+    thumb: /gallery/thumb-pre-desire.jpg
+    title: Pirms vēlmes
+    materials: audeklis/eļļa
+    height: 60
+    width: 60
+    year: 2018
+    category: abstractions
