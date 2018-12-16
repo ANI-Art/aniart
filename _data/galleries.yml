@@ -480,7 +480,7 @@ en:
   file54:
     image: /gallery/love-lock-bridge.jpg
     thumb: /gallery/thumb-love-lock-bridge.jpg
-    title: Love Lock Bridge
+    title: Love Lock Bridge (in private collection)
     materials: oil on canvas
     height: 21
     width: 30
@@ -1005,7 +1005,7 @@ ru:
   file54:
     image: /gallery/love-lock-bridge.jpg
     thumb: /gallery/thumb-love-lock-bridge.jpg
-    title: Мостик замков любви
+    title: Мостик замков любви (в частной коллекции)
     materials: холст/масло
     height: 21
     width: 30
@@ -1530,7 +1530,7 @@ lv:
   file54:
     image: /gallery/love-lock-bridge.jpg
     thumb: /gallery/thumb-love-lock-bridge.jpg
-    title: Mīlestības slēdzenes tilts
+    title: Mīlestības slēdzenes tilts (privātā kolekcijā)
     materials: audeklis/eļļa
     height: 21
     width: 30
