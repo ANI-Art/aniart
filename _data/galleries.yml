@@ -435,7 +435,7 @@ en:
   file49:
     image: /gallery/apple-trees-from-the-childhood.jpeg
     thumb: /gallery/thumb-apple-trees-from-the-childhood.jpeg
-    title: Apple-trees from the Childhood
+    title: Apple-trees from the Childhood (in private collection)
     materials: oil on canvas/cardboard
     height: 21
     width: 30
@@ -444,7 +444,7 @@ en:
   file50:
     image: /gallery/little-artyom-apple-tree.jpeg
     thumb: /gallery/thumb-little-artyom-apple-tree.jpeg
-    title: Little Artyom Apple-tree
+    title: Little Artyom Apple-tree (in private collection)
     materials: oil on canvas
     height: 30
     width: 30
@@ -522,6 +522,15 @@ en:
     width: 60
     year: 2018
     category: abstractions
+  file59:
+    image: /gallery/vera.jpg
+    thumb: /gallery/thumb-vera.jpg
+    title: Vera
+    materials: oil on canvas
+    height: 70
+    width: 50
+    year: 2018
+    category: talismans
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -959,7 +968,7 @@ ru:
   file49:
     image: /gallery/apple-trees-from-the-childhood.jpeg
     thumb: /gallery/thumb-apple-trees-from-the-childhood.jpeg
-    title: Яблони из детства
+    title: Яблони из детства (в частной коллекции)
     materials: холст/картон/масло
     height: 21
     width: 30
@@ -968,7 +977,7 @@ ru:
   file50:
     image: /gallery/little-artyom-apple-tree.jpeg
     thumb: /gallery/thumb-little-artyom-apple-tree.jpeg
-    title: Яблоня маленького Артёма
+    title: Яблоня маленького Артёма (в частной коллекции)
     materials: холст/масло
     height: 30
     width: 30
@@ -1047,6 +1056,15 @@ ru:
     width: 60
     year: 2018
     category: abstractions
+  file59:
+    image: /gallery/vera.jpg
+    thumb: /gallery/thumb-vera.jpg
+    title: Вера
+    materials: холст/масло
+    height: 70
+    width: 50
+    year: 2018
+    category: talismans
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -1484,7 +1502,7 @@ lv:
   file49:
     image: /gallery/apple-trees-from-the-childhood.jpeg
     thumb: /gallery/thumb-apple-trees-from-the-childhood.jpeg
-    title: Ābolu koki no bērnības
+    title: Ābolu koki no bērnības (privātā kolekcijā)
     materials: audeklis/kartons/eļļa
     height: 21
     width: 30
@@ -1493,7 +1511,7 @@ lv:
   file50:
     image: /gallery/little-artyom-apple-tree.jpeg
     thumb: /gallery/thumb-little-artyom-apple-tree.jpeg
-    title: Mazais Artiomas ābolu koks
+    title: Mazais Artiomas ābolu koks (privātā kolekcijā)
     materials: audeklis/eļļa
     height: 30
     width: 30
@@ -1572,3 +1590,12 @@ lv:
     width: 60
     year: 2018
     category: abstractions
+  file59:
+    image: /gallery/vera.jpg
+    thumb: /gallery/thumb-vera.jpg
+    title: Vera
+    materials: audeklis/eļļa
+    height: 70
+    width: 50
+    year: 2018
+    category: talismans
