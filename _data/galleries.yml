@@ -531,6 +531,24 @@ en:
     width: 50
     year: 2018
     category: talismans
+  file60:
+    image: /gallery/still-life-with-the-uttermost-camomiles.jpeg
+    thumb: /gallery/thumb-still-life-with-the-uttermost-camomiles.jpeg
+    title: Still life with the Uttermost Camomiles
+    materials: oil on canvas
+    height: 50
+    width: 40
+    year: 2018
+    category: still-life
+  file61:
+    image: /gallery/still-life-with-a-pear.jpeg
+    thumb: /gallery/thumb-still-life-with-a-pear.jpeg
+    title: Still life with a pear
+    materials: oil on canvas
+    height: 30
+    width: 21
+    year: 2019
+    category: still-life
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -1065,6 +1083,24 @@ ru:
     width: 50
     year: 2018
     category: talismans
+  file60:
+    image: /gallery/still-life-with-the-uttermost-camomiles.jpeg
+    thumb: /gallery/thumb-still-life-with-the-uttermost-camomiles.jpeg
+    title: Натюрморт с последними ромашками
+    materials: холст/масло
+    height: 50
+    width: 40
+    year: 2018
+    category: still-life
+  file61:
+    image: /gallery/still-life-with-a-pear.jpeg
+    thumb: /gallery/thumb-still-life-with-a-pear.jpeg
+    title: Натюрморт с грушей
+    materials: холст/масло
+    height: 30
+    width: 21
+    year: 2019
+    category: still-life
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -1599,3 +1635,21 @@ lv:
     width: 50
     year: 2018
     category: talismans
+  file60:
+    image: /gallery/still-life-with-the-uttermost-camomiles.jpeg
+    thumb: /gallery/thumb-still-life-with-the-uttermost-camomiles.jpeg
+    title: Klusā daba ar vēlu margrietiņām
+    materials: audeklis/eļļa
+    height: 50
+    width: 40
+    year: 2018
+    category: still-life
+  file61:
+    image: /gallery/still-life-with-a-pear.jpeg
+    thumb: /gallery/thumb-still-life-with-a-pear.jpeg
+    title: Klusā daba ar bumbieri
+    materials: audeklis/eļļa
+    height: 30
+    width: 21
+    year: 2019
+    category: still-life
