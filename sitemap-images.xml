@@ -13,7 +13,7 @@ type: other
       <image:loc>http://aniart.eu{{ imagefile[1].image }}</image:loc>
       <image:caption><![CDATA[{{ imagefile[1].title }}, {{ imagefile[1].materials }}, {{ imagefile[1].width }}x{{ imagefile[1].height }}, {{ imagefile[1].year }} by Nadezda Tarasova]]></image:caption>
       <image:geo_location>Riga, Latvia</image:geo_location>
-      <image:title><![CDATA[{ imagefile[1].title }}, {{ imagefile[1].materials }}, {{ imagefile[1].width }}x{{ imagefile[1].height }}, {{ imagefile[1].year }}]]></image:title>
+      <image:title><![CDATA[{{ imagefile[1].title }}, {{ imagefile[1].materials }}, {{ imagefile[1].width }}x{{ imagefile[1].height }}, {{ imagefile[1].year }}]]></image:title>
       <image:license>http://creativecommons.org/licenses/by-nc-sa/4.0/</image:license>
     </image:image>
     {% endfor %}
