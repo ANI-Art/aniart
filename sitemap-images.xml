@@ -11,9 +11,9 @@ type: other
     {% for imagefile in site.data.galleries[page.lang] %}
     <image:image>
       <image:loc>http://aniart.eu{{ imagefile[1].image }}</image:loc>
-      <image:caption>{{ imagefile[1].title }}, {{ imagefile[1].materials }}, {{ imagefile[1].width }}x{{ imagefile[1].height }}, {{ imagefile[1].year }} by Nadezda Tarasova</image:caption>
+      <image:caption><![CDATA[{{ imagefile[1].title }}, {{ imagefile[1].materials }}, {{ imagefile[1].width }}x{{ imagefile[1].height }}, {{ imagefile[1].year }} by Nadezda Tarasova]]></image:caption>
       <image:geo_location>Riga, Latvia</image:geo_location>
-      <image:title>{{ imagefile[1].title }}, {{ imagefile[1].materials }}, {{ imagefile[1].width }}x{{ imagefile[1].height }}, {{ imagefile[1].year }}</image:title>
+      <image:title><![CDATA[{ imagefile[1].title }}, {{ imagefile[1].materials }}, {{ imagefile[1].width }}x{{ imagefile[1].height }}, {{ imagefile[1].year }}]]></image:title>
       <image:license>http://creativecommons.org/licenses/by-nc-sa/4.0/</image:license>
     </image:image>
     {% endfor %}
@@ -24,7 +24,7 @@ type: other
     <loc>http://aniart.eu{{ post.url }}</loc>
     <image:image>
       <image:loc>http://aniart.eu/img/news/{{ post.image }}</image:loc>
-      <image:title>{{ post.title | replace: '<br/>', '' }}</image:title>
+      <image:title><![CDATA[{{ post.title | replace: '<br/>', '' }}]]></image:title>
     </image:image>
   </url>{% endif %}{% endfor %}
   <url>
