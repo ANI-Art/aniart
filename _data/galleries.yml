@@ -549,6 +549,33 @@ en:
     width: 21
     year: 2019
     category: still-life
+  file62:
+    image: /gallery/still-life-with-4-items.jpeg
+    thumb: /gallery/thumb-still-life-with-4-items.jpeg
+    title: Still Life with Four Items
+    materials: oil on canvas/cardboard
+    height: 21
+    width: 30
+    year: 2019
+    category: still-life
+  file63:
+    image: /gallery/golden-memories.jpeg
+    thumb: /gallery/thumb-golden-memories.jpeg
+    title: Golden Memories
+    materials: oil on canvas and dutch foil
+    height: 40
+    width: 30
+    year: 2019
+    category: talismans
+  file64:
+    image: /gallery/ambiance-5.jpeg
+    thumb: /gallery/thumb-ambiance-5.jpeg
+    title: Ambiance 5
+    materials: oil on canvas
+    height: 40
+    width: 30
+    year: 2019
+    category: portraits
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -1101,6 +1128,33 @@ ru:
     width: 21
     year: 2019
     category: still-life
+  file62:
+    image: /gallery/still-life-with-4-items.jpeg
+    thumb: /gallery/thumb-still-life-with-4-items.jpeg
+    title: Натюрморт с четырьмя предметами
+    materials: холст/картон/масло
+    height: 21
+    width: 30
+    year: 2019
+    category: still-life
+  file63:
+    image: /gallery/golden-memories.jpeg
+    thumb: /gallery/thumb-golden-memories.jpeg
+    title: Дорогие воспоминания
+    materials: холст/масло/поталь
+    height: 40
+    width: 30
+    year: 2019
+    category: talismans
+  file64:
+    image: /gallery/ambiance-5.jpeg
+    thumb: /gallery/thumb-ambiance-5.jpeg
+    title: Настроение №5
+    materials: холст/масло
+    height: 40
+    width: 30
+    year: 2019
+    category: portraits
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -1653,3 +1707,30 @@ lv:
     width: 21
     year: 2019
     category: still-life
+  file62:
+    image: /gallery/still-life-with-4-items.jpeg
+    thumb: /gallery/thumb-still-life-with-4-items.jpeg
+    title: Klusā daba ar četriem priekšmetiem
+    materials: audeklis/kartons/eļļa
+    height: 21
+    width: 30
+    year: 2019
+    category: still-life
+  file63:
+    image: /gallery/golden-memories.jpeg
+    thumb: /gallery/thumb-golden-memories.jpeg
+    title: Zelta atmiņas
+    materials: audeklis/eļļa/misiņa lapas
+    height: 40
+    width: 30
+    year: 2019
+    category: talismans
+  file64:
+    image: /gallery/ambiance-5.jpeg
+    thumb: /gallery/thumb-ambiance-5.jpeg
+    title: Garastāvokļa numurs 5
+    materials: audeklis/eļļa
+    height: 40
+    width: 30
+    year: 2019
+    category: portraits
