@@ -1,4 +1,5 @@
 .sass-cache
+.jekyll-cache
 _site
 _sources
 Thumbs.db
