@@ -1,4 +1,3 @@
-
 en:
   file01:
     image: /gallery/entry.jpg
@@ -819,6 +818,51 @@ en:
     width: 21
     year: 2018
     category: still-life
+  file92:
+    image: /gallery/mars-in-the-11-th-house.jpeg
+    thumb: /gallery/thumb-mars-in-the-11-th-house.jpeg
+    title: Mars in the 11-th House
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2019
+    category: abstractions
+  file93:
+    image: /gallery/summer-kiss.jpeg
+    thumb: /gallery/thumb-summer-kiss.jpeg
+    title: Summer Kiss
+    materials: acryl on canvas
+    height: 80
+    width: 80
+    year: 2019
+    category: abstractions
+  file94:
+    image: /gallery/morning-coffee.jpeg
+    thumb: /gallery/thumb-morning-coffee.jpeg
+    title: Morning Coffee
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2020
+    category: abstractions
+  file95:
+    image: /gallery/once-upon-a-time-in-sopot.jpeg
+    thumb: /gallery/thumb-once-upon-a-time-in-sopot.jpeg
+    title: Once upon a Time in Sopot
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2020
+    category: landscapes
+  file96:
+    image: /gallery/dreaming-together.jpeg
+    thumb: /gallery/thumb-dreaming-together.jpeg
+    title: Dreaming Together
+    materials: acryl on canvas
+    height: 80
+    width: 80
+    year: 2020
+    category: abstractions
 ru:
   file01:
     image: /gallery/entry.jpg
@@ -1613,7 +1657,7 @@ ru:
     width: 50
     year: 2019
     category: talismans
-  file87:
+  file89:
     image: /gallery/red-tulips-for-diana.jpeg
     thumb: /gallery/thumb-red-tulips-for-diana.jpeg
     title: Красные тюльпаны для Дианы
@@ -1622,7 +1666,7 @@ ru:
     width: 30
     year: 2019
     category: still-life
-  file88:
+  file90:
     image: /gallery/waiting.jpeg
     thumb: /gallery/thumb-waiting.jpeg
     title: Ожидание
@@ -1631,7 +1675,7 @@ ru:
     width: 80
     year: 2019
     category: abstractions
-  file89:
+  file91:
     image: /gallery/autumn-flowers.jpeg
     thumb: /gallery/thumb-autumn-flowers.jpeg
     title: Осенний букет
@@ -1640,6 +1684,51 @@ ru:
     width: 21
     year: 2018
     category: still-life
+  file92:
+    image: /gallery/mars-in-the-11-th-house.jpeg
+    thumb: /gallery/thumb-mars-in-the-11-th-house.jpeg
+    title: Марс в одинадцаттом доме
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2019
+    category: abstractions
+  file93:
+    image: /gallery/summer-kiss.jpeg
+    thumb: /gallery/thumb-summer-kiss.jpeg
+    title: Летний поцелуй
+    materials: acryl on canvas
+    height: 80
+    width: 80
+    year: 2019
+    category: abstractions
+  file94:
+    image: /gallery/morning-coffee.jpeg
+    thumb: /gallery/thumb-morning-coffee.jpeg
+    title: Утренний кофе
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2020
+    category: abstractions
+  file95:
+    image: /gallery/once-upon-a-time-in-sopot.jpeg
+    thumb: /gallery/thumb-once-upon-a-time-in-sopot.jpeg
+    title: Однажды в Сопоте
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2020
+    category: landscapes
+  file96:
+    image: /gallery/dreaming-together.jpeg
+    thumb: /gallery/thumb-dreaming-together.jpeg
+    title: Мечтая вместе
+    materials: acryl on canvas
+    height: 80
+    width: 80
+    year: 2020
+    category: abstractions
 lv:
   file01:
     image: /gallery/entry.jpg
@@ -2462,3 +2551,48 @@ lv:
     width: 21
     year: 2018
     category: still-life
+  file92:
+    image: /gallery/mars-in-the-11-th-house.jpeg
+    thumb: /gallery/thumb-mars-in-the-11-th-house.jpeg
+    title: Mars in the 11-th House
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2019
+    category: abstractions
+  file93:
+    image: /gallery/summer-kiss.jpeg
+    thumb: /gallery/thumb-summer-kiss.jpeg
+    title: Summer Kiss
+    materials: acryl on canvas
+    height: 80
+    width: 80
+    year: 2019
+    category: abstractions
+  file94:
+    image: /gallery/morning-coffee.jpeg
+    thumb: /gallery/thumb-morning-coffee.jpeg
+    title: Morning Coffee
+    materials: acryl on canvas
+    height: 80
+    width: 100
+    year: 2020
+    category: abstractions
+  file95:
+    image: /gallery/once-upon-a-time-in-sopot.jpeg
+    thumb: /gallery/thumb-once-upon-a-time-in-sopot.jpeg
+    title: Once upon a Time in Sopot
+    materials: oil on canvas
+    height: 50
+    width: 70
+    year: 2020
+    category: landscapes
+  file96:
+    image: /gallery/dreaming-together.jpeg
+    thumb: /gallery/thumb-dreaming-together.jpeg
+    title: Dreaming Together
+    materials: acryl on canvas
+    height: 80
+    width: 80
+    year: 2020
+    category: abstractions
