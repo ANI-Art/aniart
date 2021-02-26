@@ -1,8 +1,8 @@
     
-    <meta name="keywords" content="{% if page.keywords %}ANI Art, {{ site.data.translations[page.lang].nadezda-tarasova }}, {{ page.title | strip_html }}, {{ page.keywords | strip_html }}{% else %}ANI Art, {{ site.data.translations[page.lang].nadezda-tarasova }}, {{ page.title | strip_html }}{% endif %}" />
+    <meta name="keywords" content="{% if page.keywords %}Artist Nadezda Tarasova Website, {{ site.data.translations[page.lang].nadezda-tarasova }}, {{ page.title | strip_html }}, {{ page.keywords | strip_html }}{% else %}Artist Nadezda Tarasova Website, {{ site.data.translations[page.lang].nadezda-tarasova }}, {{ page.title | strip_html }}{% endif %}" />
     
   {% if page.news %}
-    <meta name="description" content="{% if page.preview %}ANIArt.eu - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.preview | strip_html }}{% else %}{% if page.desc %}ANIArt.eu - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }} - {{ page.desc | strip_html }}{% else %}ANIArt.eu - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }}{% endif %}{% endif %}" />
+    <meta name="description" content="{% if page.preview %}ANIArt.eu - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.preview | strip_html }}{% else %}{% if page.desc %}Artist Nadezda Tarasova Website - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }} - {{ page.desc | strip_html }}{% else %}Artist Nadezda Tarasova Website - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }}{% endif %}{% endif %}" />
 
     <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html }}{% else %}{{ site.data.translations[page.lang].fallback-title | strip_html }}{% endif %}" />
     <meta property="og:type" content="article" />
@@ -13,9 +13,9 @@
     <meta property="og:description" content="{% if page.preview %}{{ page.preview | strip_html }}{% else %}{% if page.desc %}{{ page.desc | strip_html }}{% else %}{{ site.data.translations[page.lang].fallback-desc | strip_html }}{% endif %}{% endif %}" />
     <meta property="og:locale" content="{{ page.locale }}" />
   {% else %}
-  	<meta name="description" content="{% if page.desc %}ANIArt.eu - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }} - {{ page.desc | strip_html }}{% else %}ANIArt.eu - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }} - {{ site.data.translations[page.lang].fallback-desc | strip_html }}{% endif %}" />
+  	<meta name="description" content="{% if page.desc %}Artist Nadezda Tarasova Website - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }} - {{ page.desc | strip_html }}{% else %}Artist Nadezda Tarasova Website - {{ site.data.translations[page.lang].nadezda-tarasova }} - {{ page.title | strip_html }} - {{ site.data.translations[page.lang].fallback-desc | strip_html }}{% endif %}" />
 
-    <meta property="og:title" content="ANI Art" />
+    <meta property="og:title" content="Artist Nadezda Tarasova Website" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://aniart.eu" />
     <meta property="og:image" content="http://aniart.eu/img/about.jpg" />

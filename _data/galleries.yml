@@ -1734,7 +1734,7 @@ lv:
     image: /gallery/entry.jpg
     thumb: /gallery/thumb-entry.jpg
     title: Grīva 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2015
@@ -1743,7 +1743,7 @@ lv:
     image: /gallery/ballet-dancer.jpg 
     thumb: /gallery/thumb-ballet-dancer.jpg
     title: Baleta dejotāja 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2015
@@ -1752,7 +1752,7 @@ lv:
     image: /gallery/wave.jpg
     thumb: /gallery/thumb-wave.jpg
     title: Vilnis (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 50
     year: 2015
@@ -1761,7 +1761,7 @@ lv:
     image: /gallery/winter-landscape.jpg
     thumb: /gallery/thumb-winter-landscape.jpg
     title: Ziemas ainava 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 50
     year: 2015
@@ -1770,7 +1770,7 @@ lv:
     image: /gallery/esperanza.jpg
     thumb: /gallery/thumb-esperanza.jpg
     title: Esperanza 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2015
@@ -1779,7 +1779,7 @@ lv:
     image: /gallery/moon.jpg
     thumb: /gallery/thumb-moon.jpg
     title: Mēness (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2015
@@ -1788,7 +1788,7 @@ lv:
     image: /gallery/old-town-of-riga.jpg
     thumb: /gallery/thumb-old-town-of-riga.jpg
     title: Vecrīga 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2014
@@ -1797,7 +1797,7 @@ lv:
     image: /gallery/dreaming-in-color.jpg
     thumb: /gallery/thumb-dreaming-in-color.jpg
     title: Krāsaini sapņi (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 80
     year: 2014
@@ -1806,7 +1806,7 @@ lv:
     image: /gallery/portrait-of-diana-andreeva.jpg
     thumb: /gallery/thumb-portrait-of-diana-andreeva.jpg
     title: Diānas Andrejevas portrets (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 60
     year: 2016
@@ -1815,7 +1815,7 @@ lv:
     image: /gallery/jurmala.jpg
     thumb: /gallery/thumb-jurmala.jpg
     title: Jūrmala (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 30
     width: 40
     year: 2015
@@ -1824,7 +1824,7 @@ lv:
     image: /gallery/dance.jpg
     thumb: /gallery/thumb-dance.jpg
     title: Deja 
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2015
@@ -1833,7 +1833,7 @@ lv:
     image: /gallery/collection.jpg
     thumb: /gallery/thumb-connection.jpg
     title: Savienojums 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2015
@@ -1842,7 +1842,7 @@ lv:
     image: /gallery/bunch-of-flowers.jpg
     thumb: /gallery/thumb-bunch-of-flowers.jpg
     title: Puķu pušķis 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2015
@@ -1851,7 +1851,7 @@ lv:
     image: /gallery/sea.jpg
     thumb: /gallery/thumb-sea.jpg
     title: Jūra (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 50
     year: 2015
@@ -1860,7 +1860,7 @@ lv:
     image: /gallery/italian-patio.jpg
     thumb: /gallery/thumb-italian-patio.jpg
     title: Itāļu sēta 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 80
     year: 2015
@@ -1869,7 +1869,7 @@ lv:
     image: /gallery/anninmuiza's-pond.jpg
     thumb: /gallery/thumb-anninmuiza's-pond.jpg
     title: Anniņmuižas dīķis 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2016
@@ -1878,7 +1878,7 @@ lv:
     image: /gallery/turn-onto-varnukrogs.jpg
     thumb: /gallery/thumb-turn-onto-varnukrogs.jpg
     title: Pagrieziens uz Vārnukroga
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2016
@@ -1887,7 +1887,7 @@ lv:
     image: /gallery/enchantress.jpg
     thumb: /gallery/thumb-enchantress.jpg
     title: Burve
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2016
@@ -1896,7 +1896,7 @@ lv:
     image: /gallery/pier-in-mangalsala.jpg
     thumb: /gallery/thumb-pier-in-mangalsala.jpg
     title: Mangaļsalas mols 
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2016
@@ -1905,7 +1905,7 @@ lv:
     image: /gallery/redondela-allee.jpg
     thumb: /gallery/thumb-redondela-allee.jpg
     title: Aleja Redondelā (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2016
@@ -1914,7 +1914,7 @@ lv:
     image: /gallery/my-heart.jpg
     thumb: /gallery/thumb-my-heart.jpg
     title: Mans sirds, pamatojoties uz Stanka Kordic 'All at Once' (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 50
     year: 2016
@@ -1923,7 +1923,7 @@ lv:
     image: /gallery/evening.jpg
     thumb: /gallery/thumb-evening.jpg
     title: Vakars
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 40
     year: 2016
@@ -2068,7 +2068,7 @@ lv:
     image: /gallery/frozen-flowers.jpeg
     thumb: /gallery/thumb-frozen-flowers.jpeg
     title: Saldēti ziedi
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 60
     width: 60
     year: 2017
@@ -2077,7 +2077,7 @@ lv:
     image: /gallery/frozen-margarita.jpeg
     thumb: /gallery/thumb-margarita.jpeg
     title: Margarita
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2018
@@ -2086,7 +2086,7 @@ lv:
     image: /gallery/divination.jpg
     thumb: /gallery/thumb-divination.jpg
     title: Zīlēšana
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 60
     year: 2018
@@ -2095,7 +2095,7 @@ lv:
     image: /gallery/lying-in-a-hammock.jpg
     thumb: /gallery/thumb-lying-in-a-hammock.jpg
     title: Guļamtīklā
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 100
     year: 2018
@@ -2104,7 +2104,7 @@ lv:
     image: /gallery/rhododendrons-near-the-pond.jpeg
     thumb: /gallery/thumb-rhododendrons-near-the-pond.jpeg
     title: Rododendri pie dīķa (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 50
     year: 2018
@@ -2113,7 +2113,7 @@ lv:
     image: /gallery/birthday.jpeg
     thumb: /gallery/thumb-birthday.jpeg
     title: Dzimšanas diena
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 50
     width: 40
     year: 2018
@@ -2122,7 +2122,7 @@ lv:
     image: /gallery/kodama-tree.jpeg
     thumb: /gallery/thumb-kodama-tree.jpeg
     title: Kodama koks
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 60
     width: 60
     year: 2018
@@ -2131,7 +2131,7 @@ lv:
     image: /gallery/rain.jpg
     thumb: /gallery/thumb-rain.jpg
     title: Lietus
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 100
     year: 2018
@@ -2140,7 +2140,7 @@ lv:
     image: /gallery/night-violets.jpeg
     thumb: /gallery/thumb-night-violets.jpeg
     title: Naktsvijole
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 60
     width: 60
     year: 2018
@@ -2149,7 +2149,7 @@ lv:
     image: /gallery/windy.jpeg
     thumb: /gallery/thumb-windy.jpeg
     title: Vējš manā galvā
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2018
@@ -2158,7 +2158,7 @@ lv:
     image: /gallery/unity.jpeg
     thumb: /gallery/thumb-unity.jpeg
     title: Vienotība
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2018
@@ -2167,7 +2167,7 @@ lv:
     image: /gallery/apple-trees-from-the-childhood.jpeg
     thumb: /gallery/thumb-apple-trees-from-the-childhood.jpeg
     title: Ābolu koki no bērnības (privātā kolekcijā)
-    materials: audeklis/kartons/eļļa
+    materials: audekls/kartons/eļļa
     height: 21
     width: 30
     year: 2018
@@ -2176,7 +2176,7 @@ lv:
     image: /gallery/little-artyom-apple-tree.jpeg
     thumb: /gallery/thumb-little-artyom-apple-tree.jpeg
     title: Mazais Artiomas ābolu koks (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 30
     width: 30
     year: 2018
@@ -2186,7 +2186,7 @@ lv:
     image: /gallery/self-portrait.jpg
     thumb: /gallery/thumb-self-portrait.jpg
     title: Pašportrets
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 40
     year: 2018
@@ -2195,7 +2195,7 @@ lv:
     image: /gallery/venta-rapid-in-kuldiga.jpg
     thumb: /gallery/thumb-venta-rapid-in-kuldiga.jpg
     title: Ventas rumba Kuldīgā
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2018
@@ -2204,7 +2204,7 @@ lv:
     image: /gallery/magic-forest.jpg
     thumb: /gallery/thumb-magic-forest.jpg
     title: Burvju mežs
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 60
     year: 2018
@@ -2213,7 +2213,7 @@ lv:
     image: /gallery/love-lock-bridge.jpg
     thumb: /gallery/thumb-love-lock-bridge.jpg
     title: Mīlestības slēdzenes tilts (privātā kolekcijā)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 21
     width: 30
     year: 2018
@@ -2222,7 +2222,7 @@ lv:
     image: /gallery/autumn-flowers.jpg
     thumb: /gallery/thumb-autumn-flowers.jpg
     title: Rudens pušķis
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 30
     width: 21
     year: 2018
@@ -2231,7 +2231,7 @@ lv:
     image: /gallery/conception.jpg
     thumb: /gallery/thumb-conception.jpg
     title: Koncepcija
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 60
     year: 2018
@@ -2240,7 +2240,7 @@ lv:
     image: /gallery/winter-morning-in-imanta.jpg
     thumb: /gallery/thumb-winter-morning-in-imanta.jpg
     title: Ziemas rīts Imantā
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 50
     year: 2018
@@ -2249,7 +2249,7 @@ lv:
     image: /gallery/pre-desire.jpg
     thumb: /gallery/thumb-pre-desire.jpg
     title: Pirms vēlmes
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 60
     year: 2018
@@ -2258,7 +2258,7 @@ lv:
     image: /gallery/vera.jpg
     thumb: /gallery/thumb-vera.jpg
     title: Vera
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 70
     width: 50
     year: 2018
@@ -2267,7 +2267,7 @@ lv:
     image: /gallery/still-life-with-the-uttermost-camomiles.jpeg
     thumb: /gallery/thumb-still-life-with-the-uttermost-camomiles.jpeg
     title: Klusā daba ar vēlu margrietiņām
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 40
     year: 2018
@@ -2276,7 +2276,7 @@ lv:
     image: /gallery/still-life-with-a-pear.jpeg
     thumb: /gallery/thumb-still-life-with-a-pear.jpeg
     title: Klusā daba ar bumbieri
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 30
     width: 21
     year: 2019
@@ -2285,7 +2285,7 @@ lv:
     image: /gallery/still-life-with-4-items.jpeg
     thumb: /gallery/thumb-still-life-with-4-items.jpeg
     title: Klusā daba ar četriem priekšmetiem
-    materials: audeklis/kartons/eļļa
+    materials: audekls/kartons/eļļa
     height: 21
     width: 30
     year: 2019
@@ -2294,7 +2294,7 @@ lv:
     image: /gallery/golden-memories.jpeg
     thumb: /gallery/thumb-golden-memories.jpeg
     title: Zelta atmiņas
-    materials: audeklis/eļļa/misiņa lapas
+    materials: audekls/eļļa/misiņa lapas
     height: 40
     width: 30
     year: 2019
@@ -2303,7 +2303,7 @@ lv:
     image: /gallery/ambiance-5.jpeg
     thumb: /gallery/thumb-ambiance-5.jpeg
     title: Garastāvokļa numurs 5
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 30
     year: 2019
@@ -2312,7 +2312,7 @@ lv:
     image: /gallery/ambiance-3.jpeg
     thumb: /gallery/thumb-ambiance-3.jpeg
     title: Ambiance 3 - Marshmallow
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 30
     year: 2019
@@ -2321,7 +2321,7 @@ lv:
     image: /gallery/ambiance-1.jpeg
     thumb: /gallery/thumb-ambiance-1.jpeg
     title: Ambiance 1 - Actress
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 30
     year: 2018
@@ -2330,7 +2330,7 @@ lv:
     image: /gallery/devils-confession.jpeg
     thumb: /gallery/thumb-devils-confession.jpeg
     title: Devil's Confession
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 60
     year: 2019
@@ -2339,7 +2339,7 @@ lv:
     image: /gallery/tarot-card-reading.jpeg
     thumb: /gallery/thumb-tarot-card-reading.jpeg
     title: Tarot Card Reading
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 60
     year: 2019
@@ -2348,7 +2348,7 @@ lv:
     image: /gallery/ambiance-6.jpeg
     thumb: /gallery/thumb-ambiance-6.jpeg
     title: Ambiance 6 - Wildcat
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 30
     year: 2019
@@ -2357,7 +2357,7 @@ lv:
     image: /gallery/sunset-in-jurmala.jpeg
     thumb: /gallery/thumb-sunset-in-jurmala.jpeg
     title: Sunset in Jurmala
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 80
     year: 2019
@@ -2366,7 +2366,7 @@ lv:
     image: /gallery/ballet-dancer.jpeg
     thumb: /gallery/thumb-ballet-dancer.jpeg
     title: Ballet Dancer
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 60
     year: 2019
@@ -2375,7 +2375,7 @@ lv:
     image: /gallery/prior-to-love.jpeg
     thumb: /gallery/thumb-prior-to-love.jpeg
     title: Prior to Love
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 80
     year: 2019
@@ -2384,7 +2384,7 @@ lv:
     image: /gallery/ambiance-2-dragon.jpeg
     thumb: /gallery/thumb-ambiance-2-dragon.jpeg
     title: Ambiance 2 - Dragon
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 50
     width: 40
     year: 2019
@@ -2393,7 +2393,7 @@ lv:
     image: /gallery/the-italian-story.jpeg
     thumb: /gallery/thumb-the-italian-story.jpeg
     title: The Italian Story
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 70
     year: 2019
@@ -2402,7 +2402,7 @@ lv:
     image: /gallery/inside.jpeg
     thumb: /gallery/thumb-inside.jpeg
     title: Inside
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 60
     width: 60
     year: 2019
@@ -2411,7 +2411,7 @@ lv:
     image: /gallery/reflections-before-the-bedtime.jpeg
     thumb: /gallery/thumb-reflections-before-the-bedtime.jpeg
     title: Reflections before the Bedtime
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 80
     width: 80
     year: 2019
@@ -2420,7 +2420,7 @@ lv:
     image: /gallery/debt.jpeg
     thumb: /gallery/thumb-debt.jpeg
     title: Debt
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2429,7 +2429,7 @@ lv:
     image: /gallery/guardian.jpeg
     thumb: /gallery/thumb-guardian.jpeg
     title: Guardian
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2438,7 +2438,7 @@ lv:
     image: /gallery/idol.jpeg
     thumb: /gallery/thumb-idol.jpeg
     title: Idol
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2447,7 +2447,7 @@ lv:
     image: /gallery/night-talks-in-tbilisi.jpeg
     thumb: /gallery/thumb-night-talks-in-tbilisi.jpeg
     title: Night Talks in Tbilisi
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 80
     year: 2019
@@ -2456,7 +2456,7 @@ lv:
     image: /gallery/wind.jpeg
     thumb: /gallery/thumb-wind.jpeg
     title: Wind
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2465,7 +2465,7 @@ lv:
     image: /gallery/portrait-of-olga-jakovleva.jpeg
     thumb: /gallery/thumb-portrait-of-olga-jakovleva.jpeg
     title: Portrait of Olga Jakovleva (in private collection)
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 50
     width: 40
     year: 2019
@@ -2474,7 +2474,7 @@ lv:
     image: /gallery/mistress.jpeg
     thumb: /gallery/thumb-mistress.jpeg
     title: Mistress
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2483,7 +2483,7 @@ lv:
     image: /gallery/ambience-4.jpeg
     thumb: /gallery/thumb-ambience-4.jpeg
     title: Ambience 4 - New passport
-    materials: audeklis/eļļa
+    materials: audekls/eļļa
     height: 40
     width: 30
     year: 2019
@@ -2492,7 +2492,7 @@ lv:
     image: /gallery/muse.jpeg
     thumb: /gallery/thumb-muse.jpeg
     title: Muse
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2501,7 +2501,7 @@ lv:
     image: /gallery/impact.jpeg
     thumb: /gallery/thumb-impact.jpeg
     title: Impact
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2510,7 +2510,7 @@ lv:
     image: /gallery/hunting-lodge.jpeg
     thumb: /gallery/thumb-hunting-lodge.jpeg
     title: Hunting Lodge (in private collection)
-    materials: audeklis/kartons/eļļa
+    materials: audekls/kartons/eļļa
     height: 30
     width: 40
     year: 2019
@@ -2519,7 +2519,7 @@ lv:
     image: /gallery/storm.jpeg
     thumb: /gallery/thumb-storm.jpeg
     title: Storm
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 70
     width: 50
     year: 2019
@@ -2537,7 +2537,7 @@ lv:
     image: /gallery/waiting.jpeg
     thumb: /gallery/thumb-waiting.jpeg
     title: Waiting
-    materials: audeklis/akrils
+    materials: audekls/akrils
     height: 80
     width: 80
     year: 2019
@@ -2546,7 +2546,7 @@ lv:
     image: /gallery/autumn-flowers.jpeg
     thumb: /gallery/thumb-autumn-flowers.jpeg
     title: Autumn Flowers
-    materials: audeklis/kartons/eļļa
+    materials: audekls/kartons/eļļa
     height: 30
     width: 21
     year: 2018
