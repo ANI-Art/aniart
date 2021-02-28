@@ -1,12 +1,1 @@
-<script>
-  var downloadLink = document.getElementById('saveForm');
-
-  addListener(downloadLink, 'click', function() {
-    ga('send', 'event', 'contact', 'submit', 'contact-page');
-  });
-
-  function addListener(element, type, callback) {
-    if (element.addEventListener) element.addEventListener(type, callback);
-    else if (element.attachEvent) element.attachEvent('on' + type, callback);
-  }
-</script>
+<!-- TBD: add event on 'Facebook Messenger' link click from both Contact page and the footer. -->
